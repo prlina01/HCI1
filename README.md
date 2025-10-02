@@ -1,8 +1,14 @@
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
-7HCI KAO DISCIPLINA ...
+
+7
+
+HCI KAO DISCIPLINA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • SIGCHCI (Special Interest Group on Computer-Human Interaction):
 Disciplina koja se bavi projektovanjem, evaluacijom i implementacijom
 interaktivnih računarskih sistema namenjenih čovekovoj upotrebi i
@@ -15,20 +21,35 @@ interfejs, sa neodgovarajućom funkcionalnošću, frustrira korisnika)
 – obezbeđivanje pouzdanosti (akcije funkcionišu na predviđeni način)
 – element interfejsa mora da asocira korisnika na povezanu akciju
 – kontekst upotrebe korisničkog interfejsa
-8... HCI KAO DISCIPLINA ...
+
+8
+
+... HCI KAO DISCIPLINA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 HCI
+
 • Izrazita multidisciplinarnost
-9... HCI KAO DISCIPLINA ...
+
+9
+
+... HCI KAO DISCIPLINA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • HCI ne proučava samo interakciju čovek računar
 – Human–Machine Interaction (HMI)
 – Man-Machine Interaction (MMI)
 – Computer-Human Interaction (CHI).
-10... HCI KAO DISCIPLINA
+
+10
+
+... HCI KAO DISCIPLINA
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Oblast proučavanja HCI-a obuhvata i sledeće:
 – karakteristike zajedničkog izvršavanja zadataka korisnika i računara
 – strukturu komunikacije između korisnika i računara
@@ -36,22 +57,35 @@ UVOD
 interfejsa)
 – razvoj algoritama i programiranje samih interfejsa
 – proces specifikacije, projektovanja i implementacije interfejsa
+
 • HCI nije samo korisnički interfejs
 • Korisnički interfejs se ne odnosi samo na softver
 • Korisnici rešavaju svoje zadatke nezavisno od sistema
 (softvera/hardvera)
-11UČESNICI INTERAKCIJE
+
+11
+
+UČESNICI INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • HCI proučava interakciju između čoveka i računarskog sistema
 (računar/softver)
 • Dve strane interakcije:
 – ČOVEK
+
 – RAČUNAR
+
 • Cilj je da čovek pomoću računara obavi željeni zadatak/radnju
-12UČESNICI INTERAKCIJE – ČOVEK ...
+
+12
+
+UČESNICI INTERAKCIJE – ČOVEK ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Ljudi imaju ograničene sposobnosti da procesiraju
 informacije (uvek voditi računa o tome tokom
 projektovanja interakcije)
@@ -60,15 +94,21 @@ različitih ulaznih i izlaznih kanala
 – Vizualni kanal (vizualni efekti i percepcija, boja, osvetljenost, veličina,
 dubina, pozicioniranje)
 – Audio kanal (za skretanje pažnje, ali i uputstva)
+
 – Haptički kanal (virtualna realnost, ekrani osetljivi na dodir)
 – Pokret (virtuelna realnost, mobilni telefon?)
+
 • Informacija se smešta u ljudsku memoriju
 – Senzorska memorija (inicijalna informacija)
 – Kratkotrajna (radna) memorija (ATM primer – kartica)
 – Dugoročna memorija (zapamćena akcija, ATM primer – tastatura)
-13… UČESNICI INTERAKCIJE – ČOVEK ...
+13
+
+… UČESNICI INTERAKCIJE – ČOVEK ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Prepoznavati ili pamtiti
 PREPOZNAVANJE
 – Podsetiti se kako se nešto radi na
@@ -79,10 +119,15 @@ PAMĆENJE
 bez dodatnog podsećanja
 (bez pomoći)
 – "Knowledge in the head„
+
 • Prepoznavanje je lakše
-14... UČESNICI INTERAKCIJE – ČOVEK
+14
+
+... UČESNICI INTERAKCIJE – ČOVEK
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Informacije se obrađuje i primenjuje
 – Rezonovanje (upotreba znanja kako bi se došlo do zaključaka i stvorila
 nova saznanja – ako se nešto radilo na jedan način, a ovo novo izgleda
@@ -93,28 +138,40 @@ zadaci)
 rešavanje novih problema iz istog domena postaje jednostavnije)
 – Greške (zato što je nešto novo, ali i zato što je nešto pogrešno naučeno –
 mentalni modeli)
+
 • Emocije utiču na ljudske sposobnosti
 • Ljudi dele slične sposobnosti i karakteristike,
 ali svaka osoba je jedinstvena i različita od
 ostalih, što se nikako ne sme ignorisati
-15UČESNICI INTERAKCIJE – RAČUNAR ...
+15
+
+UČESNICI INTERAKCIJE – RAČUNAR ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Računari su kompleksni sastavljeni iz više delova, pri čemu svaki utiče
 na rad sistema (ubiquitous)
 – Kombinacija hardvera i softvera
+
 • Ulazni uređaji za interaktivnu upotrebu, za unos teksta, crtanje, i
 selekciju elemenata na ekranu
 – Unos teksta – tradicionalne tastature,
 ekrani osetljivi na dodir, govor, rukopis,
 skeniranje
+
 – Pointing – tradicionalno miš,
 ali i stilus, touchpad,
 trackball, i ostalo
 – 3D interakcioni uređaji
-16... UČESNICI INTERAKCIJE – RAČUNAR ...
+
+16
+
+... UČESNICI INTERAKCIJE – RAČUNAR ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Izlazni uređaji za interaktivnu upotrebu
 – Monitori različitih dimenzija i rezolucija
 – Štampači
@@ -123,26 +180,39 @@ UVOD
 – različiti mehanički uređaji
 (servo motori, hidraulika)
 – sl.
+
 • Specijalna VR okruženja i uređaaji
-17... UČESNICI INTERAKCIJE – RAČUNAR
+
+17
+
+... UČESNICI INTERAKCIJE – RAČUNAR
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Memorija (njen kapacitet i brzina – ograničenja)
 • Procesna moć
 – Efekti prebrzog ili presporog rada
 (mit o mašini neograničene brzine)
+
 – Računarska mreža i njen uticaj na rad
 čitavog sistema
+
 • Sukob između mogućnost računara i očekivanja korisnika
 – Procesiranje
 – Čitanje iz memorije
 – Render grafike
 – Prenos preko rač. Mreže
+
 • Subjektivni osećaj šta je brzo i koliko su korisnici spremeni da čekaju
 – Primer preuzimanja slika sa 66 kamera
-18KORISNIČKI INTERFEJS ...
+18
+
+KORISNIČKI INTERFEJS ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Interakcija između korisnika i računara odvija se putem korisničkog
 interfejsa
 • Korisnički interfejs je podržan hardverom i softverom
@@ -150,15 +220,20 @@ interfejsa
 poslove, želje, ...
 – Izlazni deo interfejsa preko kojeg računar informiše korisnika o rezultatima,
 potrebnim podacima, željama, ...
+
 • Omogućava korisniku da obavi svoj zadatak (korisnik je preko njega u
 interakciji sa svojim zadatkom)
 • Iako je korisnički interfejs deo računarskog sistem, za korisnika je on
 često sam sistem
 • Korisnikov doživljaj rač. sistema je često ograničen na korisnički
 interfejs i baziran isključivo na njemu
-19... KORISNIČKI INTERFEJS ...
+19
+
+... KORISNIČKI INTERFEJS ...
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Dobar korisnički interfejs
 – podrazumeva miks dobro dizajniranog ulaza i izlaza
 – uključuje adekvatne tehnike interakcije
@@ -168,9 +243,14 @@ UVOD
 – omogućava korisniku da se orijentiše na informacije i zadatak, a ne
 na mehanizme koji se koriste za prezentaciju informacij i realizaciju
 zadatka
-20... KORISNIČKI INTERFEJS…
+
+20
+
+... KORISNIČKI INTERFEJS…
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Lako je naći primere lošeg interfejsa, daleko teže naći primer dobrog
 • Razlozi za loš interfejs:
 1. Interfejs je nevažan
@@ -184,18 +264,24 @@ korisnički interfejs u
 odnosu na njegovu
 upotrebljivost
 (usability)
-21... KORISNIČKI INTERFEJS
+21
+
+... KORISNIČKI INTERFEJS
 Dragan dr Dinu – Interakcija čovek računar
+
 UVOD
+
 • Zašto je teško doći do dobrog usability-a?
 – Setiti se svih aktera
 – Korisnici (različiti, nepredvidljivi, ...)
 – Hardver/softver (ograničen, ne podržava željene interakcione tehnike, ...)
+
 – Programeri (obično nisu dobri u dizajniranju kor. interfejsa)
 • ne razmišljaju kao normalni ljudi
 • znaju kako softver radi, tehnologija na prvom mestu
 • vole rad sa softverom/hardverom
 više od drugih ljudi
+
 – Dobar dizajn nije dovoljan
 za dobar kor. interfejs
 (dizajneri često "samo"
@@ -203,11 +289,19 @@ umetnici, ne poznaju
 HCI, ...)
 – Ponos programera/dizajnera
 – Kor. interfejs za korisnike, a ne za programere
-22Dragan dr Dinu – Interakcija čovek računar
+22
+
+Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
-29USABILITY
+
+29
+
+USABILITY
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Upotrebljivost: (mera) koliko dobro korisnici mogu da koriste funkcije
 sistema
 • Usability se sastoji od nekoliko dimenzija (nekoliko aspekta
@@ -216,32 +310,44 @@ upotrebljivosti korisničkog interfejsa:
 memorability, (koliko se
 sistem lako uči i pamti,
 koliko je intuitivan)
+
 – Efikasnost
 – Podložnost greškama
 – Subjektivno zadovoljstvo
+
 • Postoje i drugi aspekti
 (npr. koliko interfejs zamara
 korisnika), ali ovi su najvažniji
-30USABILITY DIMENZIJE
+30
+
+USABILITY DIMENZIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Različite usability dimenzije nemaju isti značaj za različite korisnike ili u
 različitim tipovima aplikacija
 – Početnici treba softver koji se lako i brzo uči
 – Povremenim korisnicima treba intuitivnost, lako
 pamćenje i podsećanje pojedinih opcija
 – Ekspertima treba efikasnost
+
 • Ali korisnik nije uniformno početnik ili ekspert
 – Domensko znanje (doktor je ekspert u svom
 zanimanju, ali početnik u korišćenju softvera)
 – Aplikativno znanje (korisnik je ekspert u jednom delu aplikacije, ali početnik
 u korišćenju nekih drugih funkcionalnosti tog istog softvera)
 – Učenje korisničkog interfejsa (vremenom postaje ekspert)
+
 • Važno je znati korisnike kako bi se optimizovao korisnički interfejs za
 njih
-31USABILITY WIMP PROBLEMI (IBM 1994.)
+31
+
+USABILITY WIMP PROBLEMI (IBM 1994.)
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Dvosmisleni meniji i ikone (njihovo značenje nije jasno)
 • Jezik koji omogućava navigaciju samo u jednom smeru
 • Ograničenja u ulazu i direktnoj manipulaciji
@@ -254,9 +360,13 @@ zadatak
 • Nedostatak inteligencije i predviđanja (sledeće
 akcije korisnika)
 • Neadekvatne poruke o grešci, help, dokumentacija i tutorijali
-32USABILITY WEB PROBLEMI (2004.)
+32
+
+USABILITY WEB PROBLEMI (2004.)
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Visual clutter (nedostatak praznog prostora,
 besmislene grafike, ...)
 • Impaired information readability (loš izbor
@@ -273,9 +383,14 @@ inter. uopšte služe)
 • Outdated or undated information (neažuriran sadržaj)
 • Stale design caused by emulation of printed documents and past
 systems (šta reći?)
-33PRAKTIČNA OCENA USABILITY-A
+
+33
+
+PRAKTIČNA OCENA USABILITY-A
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Može se saznati jednostavnim posmatranjem ili pričom sa korisnicima
 • Nije naučni pristup, ali je dobar indikator
 – Da li korisnici često postavljaju pitanja
@@ -287,28 +402,55 @@ akcije?
 – Da li postoje puno stvari koje treba
 ignorisati?
 – Da li ljudi žele da rade sa softverom?
-34OBJEKTIVNA OCENA USABILITY-A
+
+34
+
+OBJEKTIVNA OCENA USABILITY-A
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Naučni pristup
 • Mogući načini da se
 izmeri usability
-35USABILITY SPRAM CELOG SISTEMA
+
+35
+
+USABILITY SPRAM CELOG SISTEMA
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Usability je samo jedna od karakteristika celog sistema
-– Funkcionlanost– Usability
-– Performanse– Veličina
-– Cena– Pouzdanost
-– Sigurnost– Standardi
+– Funkcionlanost
+
+– Usability
+
+– Performanse
+
+– Veličina
+
+– Cena
+
+– Pouzdanost
+
+– Sigurnost
+
+– Standardi
+
 • Ne može se posmatrati nezavisno od ostatka
 • Značaj usability-a zavisi od vrste i namene sistema
+
 • Potrebno je ostvariti
 balans između svih aspekata sistema i
 često su potrebni kompromisi
-36USER EXPERIENCE (UX) ...
+36
+
+USER EXPERIENCE (UX) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Odnos između korisnika se ne posmatra samo kao odnos
 između korisnika i interfejsa, već se proširuje na proizvode,
 sisteme i procese čiji su interfejsi deo
@@ -316,16 +458,26 @@ sisteme i procese čiji su interfejsi deo
 svetlu svega ostalog što okružuje UI
 • Dobar primer je iPhone jer UX korisnika ne dolazi samo od
 interfejsa već i od svega ostalog što dolazi uz iPhone
-37... USER EXPERIENCE (UX)
+
+37
+
+... USER EXPERIENCE (UX)
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • UX = The motivations, behaviours, and satisfaction we want to
 encourage through the design
 of our products or services
 • UI == UX ?
-38... USER EXPERIENCE (UX) …
+
+38
+
+... USER EXPERIENCE (UX) …
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • UI – brine o layout-u proizvoda i izgledom generalno
 • UX – o osećaju koji korisnik ima dok koristi proizvod
 • Odnosi se na
@@ -338,9 +490,13 @@ Primer sajta koji izgleda
 fenomenalno, ali na kome ni za
 ljubav Božiju, ne može da se
 pronađe željena stvar
-39... USER EXPERIENCE (UX) …
+39
+
+... USER EXPERIENCE (UX) …
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Peter Morville User Experience Honeycomb
 – Ideja da se preko njega edukuju klijenti i da im se objasni šta je UX
 • Obraćanjem pažnje na pojedinačne elemente
@@ -354,9 +510,13 @@ korisnikova očekivanja ili ne
 verovatnoća da će se vratiti proizvodu i
 da će koristiti proizvod, što generalno znači
 veću zaradu
-40... USER EXPERIENCE (UX) …
+40
+
+... USER EXPERIENCE (UX) …
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Kako do dobrog UX?
 • Istražiti tržište – kako bi se odredili
 potencijalni korisnici i njihove potrebe,
@@ -367,27 +527,43 @@ vrste korisnika koje će koristiti proizvod
 potencijalnim korisnicima
 • Istražiti trendove – kako bi se odredila
 očekivanja potencijalnih korisnika
+
 • Sve to omogućiće donošenje pravilnih
 odlika (i u dizajnu proizvoda i u
 usmeravanju razvoja proizvoda)
-41... USER EXPERIENCE (UX)
+
+41
+
+... USER EXPERIENCE (UX)
 Dragan dr Dinu – Interakcija čovek računar
+
 POJMOVI
+
 • Kako do dobrog UX?
 • Napraviti prototip niske
 verodostojnosti (wireframe)
 • Napraviti prototip visoke
 verodostojnosti
+
 • Testirati proizvod sa korisnicima
 (usability testing)
 • UX se non-stop razvija, i kada se
 proizvod pusti u produkciju, mora
 se raditi na njegovom unapređenju
-42Dragan dr Dinu – Interakcija čovek računar
+
+42
+
+Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
-59MODELI INTERAKCIJE
+
+59
+
+MODELI INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Interakcija – komunikacija između čoveka i računara
 • Kako su oba učesnika kompleksna, interfejs mora da efektivno prevodi
 između njih
@@ -401,27 +577,40 @@ je Normanov model tokova izvršavanja
 i evaluacije
 – Opisuje interakciju na osnovu korisnikovih
 ciljeva i akcija
-60NORMANOV MODEL INTERAKCIJE ...
+60
+
+NORMANOV MODEL INTERAKCIJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 Evaluacija
 rezultata
+
 Formiranje
 namera
 Uspostavljanje
 korisnikovog cilja
+
 Interpretacija
 stanja sistem
+
 Planiranje
 akcije
+
 Osmatranje
 stanja sistema
+
 Izvršavanje
 akcije
 Sistem
-61... NORMANOV MODEL INTERAKCIJE
+61
+
+... NORMANOV MODEL INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Svrha interaktivnog sistema je da pomogne korisniku da ostvari svoj
 cilje (goal) iz određenog domena primene (application domain)
 • Cilj je željeni rezultat, izlaz iz sistema, akcije su dozvoljene operacije
@@ -437,10 +626,16 @@ pokrenem opciju, radi to što želim?")
 – U zavisnosti od reakcije sistema i evaluacije, plan se modifikuje ("Da li da
 probam sledeći meni?") ili se menja cilj ("Umesto promene osvetljenja,
 mogu da docrtam brkove.")
+
 • Dobri interfejsi imaju manji broj ponavaljanja (lako savladati)
-62STILOVI INTERAKCIJE
+
+62
+
+STILOVI INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Stilovi interakcije – metodologija preko koje se realizuje komunikacija
 između korisnika i sistema
 •
@@ -449,15 +644,21 @@ između korisnika i sistema
 •
 •
 •
+
 Komandna linija
 WIMP
 Meniji
 Filin forma
 Direktna manipulacija
 Antropomorfni
-74KOMANDNA LINIJA
+
+74
+
+KOMANDNA LINIJA
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Najstariji oblik interakcije
 • Vrlo linearan oblik interakcije
 • Korisnik unese komandu, sistem
@@ -474,6 +675,7 @@ funkcijama sistema
 – Fleksibilan, jer se lako proširuje,
 može da pordži veliki broj
 varijacija kroz opcije i parametre
+
 – Naredbe moraju da se pamte
 – Pregled svih komandi nije
 dostupan na ekranu
@@ -481,20 +683,30 @@ dostupan na ekranu
 sintaksom
 – Vrlo podložni greškama i
 netrpeljivi prema greškama
-75WIMP
+75
+
+WIMP
 Dragan dr Dinu – Interakcija čovek računar
+
 •
 •
 •
 •
+
 INTERAKCIJA
+
 Windows
 Icons
 Menus
 Pointers
-76MENIJI
+
+76
+
+MENIJI
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Skup opcija ili izbora od kojih korisnik bira jednu pomoću miša ili
 tastature
 • Vizuelni feedback kad je opcija selektovana
@@ -504,15 +716,21 @@ tastature
 jednostavnih koraka (interakcija) – dobro za
 početnike, loše za eksperte (dodatne tehnike
 da se ovo prevaziđe – prečice?)
+
 • Mana:
 – Upotrebljivost zavisi od kvaliteta
 labela/opisa ponuđenih opcija (njihovo
 značenje i razumevanje) – ako su labele
 loše, opašće produktivnost a porasti broj
 grešaka
-77FORME
+
+77
+
+FORME
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Koristan za prikupljanje informacija
 • Podaci se ili unose ili se biraju ponuđene opcije
 preko većeg broja kontrola
@@ -522,9 +740,14 @@ razume svrhu forme i omogućiti mu da brzo i
 lako unosi podatke
 • Loše dizajnirana forma biće neefikasna i
 produžiti unos podataka
-78DIREKTNA MANIPULACIJA
+
+78
+
+DIREKTNA MANIPULACIJA
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Korisnik manipuliše vizuelnim reprezentacijama objekata
 – Kontinualna vizuelna reprezentacija
 – Fizička (konkretna) akcija (m. down/up)
@@ -540,9 +763,13 @@ pomera u malim ili velikim koracima)
 – Ne može se svaka funkcija interfejsa
 (korisnička operacija) direktno (lako) mapirati
 na fizičku akciju
-79ANTROPOMORFNI INTERFEJSI
+79
+
+ANTROPOMORFNI INTERFEJSI
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Interfejs komunicira (intereaguje) sa korisnikom
 na isti način kako bi to činila dva čoveka
 • Uključuje govor (prirodni jezik, a ne jezik namenjen
@@ -552,55 +779,83 @@ facijalnu ekspresiju i pokret oka
 poznavanje ljudskog ponašanja (šta znače reči,
 gestovi, pogledi, facijalne eskpresije)
 healthcare avatars
+
 • Još uvek eksperimentalno,
 ali sve više u upotrebi
 (kontrola putem glasa,
 gesta, i sl.)
-80POST-WIMP INTERFEJSI
+80
+
+POST-WIMP INTERFEJSI
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 • Za kompleksne zadatke (Computer Aided Design)
 • Za zadatke koji trebaju da se izvršavaju
 u paraleli (grupni rad)
 • Za interaktivne računarske igre
 • Za VR/AR sisteme
+
 • Paralelna interakcija
 • Kontinualna interakcija
 • Multi-mode
-81POREĐENJE STILOVA INTERAKCIJE
+
+81
+
+POREĐENJE STILOVA INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 INTERAKCIJA
+
 DISKUSIJA
 • Lakoća učenja (knowledge in the head vs. world)
 • Poruke o grešci
+
 • Efikasnost
 • User experience
 • Sinhronizacija
+
 • Programiranje
 • Pristupačnost (accessibility)
-82Dragan dr Dinu – Interakcija čovek računar
+
+82
+
+Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE ZA RAZVOJ
 KORISNIČKOG INTERFEJSA
-143SMERNICE ...
+
+143
+
+SMERNICE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 • Razlikuje se u nivou detalja i tipu, od opštih do platformskih, od
 dizajnerskih do programerskih
 • Smernice za razvoj na Microsoft platformi
-https://msdn.microsoft.com/en-
-us/library/windows/desktop/dn688964(v=vs.85).aspx
+https://msdn.microsoft.com/enus/library/windows/desktop/dn688964(v=vs.85).aspx
+
 • Smernice za razvoj na Mac platformi
 https://developer.apple.com/go/?id=osx-hig
+
 • Smernice za razvoj na Andriodu
 https://developer.android.com/guide/practices/ui_guidelines/index.html
+
 • Smernice za razvoj na iOSu
-https://developer.apple.com/ios/human-interface-guidelines/overview/design-
-principles/
+https://developer.apple.com/ios/human-interface-guidelines/overview/designprinciples/
+
 • Smernice za razvoj na Linuxu
 https://developer.gnome.org/hig/stable/
-144... SMERNICE
+144
+
+... SMERNICE
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 • Opštih smernica ima jako puno, kao da svaki istraživač ima svoj skup
 smernica
 • Dosta se preklapaju i razlikuju se u nivou detalja i
@@ -609,17 +864,26 @@ broju stavki
 dobar kor. interfejs i nakojim principima se bazira
 dobar usability, već se ne slažu oko toga kako te
 principe organizovati u mali kompaktan skup upustava
+
 • Primeri smernica:
 – Ben Šnajdermanovih „osam zlatnih pravila“
 – Džob Nilsenova pravila
 – Normanova pravila
 – Tognazzini principi
-145OSAM ZLATNIH PRAVILA ...
+145
+
+OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
-146… OSAM ZLATNIH PRAVILA ...
+
+146
+
+… OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (1. pravilo) Težiti konzistentnosti ...
 – Identična terminologija treba biti korišćena
 u svim elementima korisničkog interfejsa
@@ -631,19 +895,34 @@ setove korisničkih akcija
 standarda na koje su naviknuti
 – Ne treba dozvoliti da se korisnik zapita da li različite reči, oznake, situacije
 ili akcije znače isto što i u drugim okruženjima
+
 – Pridržavanje ovom pravilu najlakše se ostvaruje korišćenjem konvencija
 platforme koja je u opticaju
-147... OSAM ZLATNIH PRAVILA ...
+147
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (1. pravilo) Težiti konzistentnosti ...
-148... OSAM ZLATNIH PRAVILA ...
+
+148
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (1. pravilo) Težiti konzistentnosti
-149... OSAM ZLATNIH PRAVILA ...
+
+149
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (2. pravilo) Stremiti univerzalnoj upotrebljivosti ...
 – Prepoznavanje potreba različitih korisnika
 – Početnici naspram eksperta, ljudi sa
@@ -657,13 +936,22 @@ velikog značaja naprednom korisniku
 rad, dok frekventniji korisnici ovakve akcije pametno iskorišćavaju
 • To je razlog zbog kog takve akcije treba omogućiti, kako bi sistem bio
 pogodan i za nove i za frekventne korisnike
-150... OSAM ZLATNIH PRAVILA ...
+150
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (2. pravilo) Stremiti univerzalnoj upotrebljivosti ...
-151... OSAM ZLATNIH PRAVILA ...
+
+151
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (3. pravilo) Davati informativni feedback ...
 – Za svaku korisničku akciju trebalo bi da dođe do
 nekog odziva sistema kroz odgovarajući
@@ -675,17 +963,32 @@ i umeren
 posledicama odziv mora biti naglašeniji i jači
 – Informativni feedback mora biti smislen i
 informativan
-152... OSAM ZLATNIH PRAVILA ...
+
+152
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (3. pravilo) Davati informativni feedback ...
-153... OSAM ZLATNIH PRAVILA ...
+
+153
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (3. pravilo) Davati informativni feedback
-154... OSAM ZLATNIH PRAVILA ...
+
+154
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (4. pravilo) Projektovati dijaloge naglašene zatvorenosti ...
 – Sekvence akcija trebalo bi da budu organizovane u
 grupe sa jasno definisanim početkom, sredinom i
@@ -696,13 +999,23 @@ i priprema ga za sledeću grupu akcija
 – Sprovoditi korisnika kroz sve korake
 – Jasno signalizirati korisniku da je stigao do kraja i
 da je ispunio sve zahteve
-155... OSAM ZLATNIH PRAVILA ...
+
+155
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (4. pravilo) Projektovati dijaloge naglašene zatvorenosti
-156... OSAM ZLATNIH PRAVILA ...
+
+156
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (5. pravilo) Ponuditi prevenciju i rukovanje greškom ...
 – Koliko god je to moguće, dizajnirati sistem
 tako da korisnik ne može napraviti ozbiljnu
@@ -711,15 +1024,26 @@ grešku
 trebalo da bude u mogućnosti da prepozna
 grešku i ponudi jednostavne mehanizme za
 obradu greške, odnosno oporavak od nje
+
 – Poruke o grešci treba da budu napisane
 jasnim jezikom, koji ne uključuje kod
-157... OSAM ZLATNIH PRAVILA ...
+
+157
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (5. pravilo) Ponuditi prevenciju i rukovanje greškom
-158... OSAM ZLATNIH PRAVILA ...
+
+158
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (6. pravilo) Dozvoliti poništavanje efekata ...
 – Korisniku treba dati slobodu i mogućnost biranja,
 kao i donošenja sopstvenih odluka
@@ -735,26 +1059,45 @@ da se akcije koje su dovele do greške mogu poništiti
 istraživanje - pomoću pokušaja i pogrešaka
 – Jedinice u kojima se akcije mogu poništiti mogu biti različitog obima: može
 se poništavati pojedinačna akcija, ceo unos ili kompletna grupa akcija
-159... OSAM ZLATNIH PRAVILA ...
+159
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (6. pravilo) Dozvoliti poništavanje efekata
-160... OSAM ZLATNIH PRAVILA ...
+
+160
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (7. pravilo) Interno podržavati kontrolu ...
 – Iskusni korisnici žele da imaju punu kontrolu
 nad sistemom i da sistem funkcioniše u
 skladu sa njihovim komandama
 – Sistem treba dizajnirati tako da su korisnici
 inicijatori akcija, a ne samo posmatrači
-161... OSAM ZLATNIH PRAVILA ...
+
+161
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (7. pravilo) Interno podržavati kontrolu
-162... OSAM ZLATNIH PRAVILA ...
+
+162
+
+... OSAM ZLATNIH PRAVILA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (8. pravilo) Redukovati opterećenje radne memorije ...
 – Ograničenja kratkotrajne memorije kod ljudi
 zahtevaju da svi prikazi budu jednostavni,
@@ -762,232 +1105,492 @@ da višestrani prikazi budu konsolidovani,
 zahtevi za pomeranjem prozora da budu
 minimalni i da vreme učenja bude podeljeno
 između kodova, mnemonika i sekvenci akcija
-163... OSAM ZLATNIH PRAVILA
+
+163
+
+... OSAM ZLATNIH PRAVILA
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (8. pravilo) Redukovati opterećenje radne memorije
-164NIELSENOVA PRAVILA …
+
+164
+
+NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
-165… NIELSENOVA PRAVILA …
+
+165
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
-166… NIELSENOVA PRAVILA …
+
+166
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (1. pravilo) Vidljivost statusa sistema ...
-–Sistem bi stalno trebalo da obaveštava korisnika o svojim
+–
+
+Sistem bi stalno trebalo da obaveštava korisnika o svojim
 aktivnostima kroz odgovarajuće poruke („feedback“)
 upotrebljene na pravom mestu, u pravo vreme i u
 odgovarajućem vremenskom roku
-–Da li je korisnik u svakom trenutku
+
+–
+
+Da li je korisnik u svakom trenutku
 svestan u kom statusu se sistem nalazi?
 I koja je sledeća faza?
-–Primeri su dosta jednostavni: „download“
+
+–
+
+Primeri su dosta jednostavni: „download“
 proces prilikom kog nas sistem
 obaveštava koji deo fajla je „skinut“
 i koliko vremena je do kraja procesa
-167… NIELSENOVA PRAVILA …
+
+167
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (1. pravilo) Vidljivost statusa sistema ...
-168… NIELSENOVA PRAVILA …
+
+168
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (1. pravilo) Vidljivost statusa sistema
-169… NIELSENOVA PRAVILA …
+
+169
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (2. pravilo) Veza sa stvarnim svetom ...
-–Sistem bi trebalo da prati i poštuje konvencije i logiku iz stvanog
+–
+
+Sistem bi trebalo da prati i poštuje konvencije i logiku iz stvanog
 sveta što je moguće više i da omogući korisniku da brzo razume
 kako sistem funkcioniše
-–Trebalo bi da prati konvencije iz stvarnog sveta, tako da se informacije
+
+–
+
+Trebalo bi da prati konvencije iz stvarnog sveta, tako da se informacije
 prikazuju u logičkom i prirodnom redosledu
-–Na primer, sistem bi trebalo da „govori“ jezik
+
+–
+
+Na primer, sistem bi trebalo da „govori“ jezik
 korisnika – koliko ste puta dobili poruku
 „Error 157935842930589“??? Sistem bi
 trebalo da nam pruži informaciju tipa „Printer
 je u zastoju, nema papira. Molimo dodajte jos“
-–Programeri i krajnji korisnici često (ako ne i uvek) imaju drugačije viđenje
+
+–
+
+Programeri i krajnji korisnici često (ako ne i uvek) imaju drugačije viđenje
 kako bi sistem trebao da funkcioniše i ignorišući mentalni model krajnjih
 korisnika, programeri stvaraju aplikacije koje su teške i neefikasne za
 korišćenje. („Korisnik je glup“ nije mentalni model!!!)
-170… NIELSENOVA PRAVILA …
+170
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (2. pravilo) Veza sa stvarnim svetom ...
-171… NIELSENOVA PRAVILA …
+
+171
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (2. pravilo) Veza sa stvarnim svetom
-172… NIELSENOVA PRAVILA …
+
+172
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (3. pravilo) Korisnikova kontrola i sloboda ...
-–U mnogim situacijama, korisnik odabere neke komande
+–
+
+U mnogim situacijama, korisnik odabere neke komande
 sasvim slučajno, greškom i sistem bi trebalo da obezbedi
 „bezbolni“ povratak na prethodno stanje
-–Podržati Undo/Redo
-–Primeri na vebu su mnogobrojni: logo koji uvek vodi na početnu stranicu,
+
+–
+
+Podržati Undo/Redo
+
+–
+
+Primeri na vebu su mnogobrojni: logo koji uvek vodi na početnu stranicu,
 dugme nazad, izađi itd
-173… NIELSENOVA PRAVILA …
+
+173
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (3. pravilo) Korisnikova kontrola i sloboda ...
-174… NIELSENOVA PRAVILA …
+
+174
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (3. pravilo) Korisnikova kontrola i sloboda ...
-175… NIELSENOVA PRAVILA …
+
+175
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (3. pravilo) Korisnikova kontrola i sloboda
-176… NIELSENOVA PRAVILA …
+
+176
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (4. pravilo) Konzistentnost i standardi ...
-–Neki simboli i ikone uvek imaju isto značenje i što je više moguće
+–
+
+Neki simboli i ikone uvek imaju isto značenje i što je više moguće
 trebalo bi ih korititi
-–Korisnik ne bi trebalo da se zapita da li raličite reči, situacije ili
+
+–
+
+Korisnik ne bi trebalo da se zapita da li raličite reči, situacije ili
 naredbe imaju isto značenje
-–Pratiti konvencije vezane za platformu
-–Na primer, email se označava pismom, štampač sličicom štampača,
+
+–
+
+Pratiti konvencije vezane za platformu
+
+–
+
+Na primer, email se označava pismom, štampač sličicom štampača,
 zastavice koje označavaju promenu jezika su u desnom gornjem uglu
 stane
-–Doslednost, tj. konzistentnost znači da jedan stil, set boja, font, logo,
+
+–
+
+Doslednost, tj. konzistentnost znači da jedan stil, set boja, font, logo,
 „layout“ (izuzetak može biti jedino početna strana), redosled ikona uvek
 treba da prati istu logiku, da ima isto značenje i poziciju
-–Na primer, kada korisnik treba da odabere da nesto sačuva ili eliminiše,
+
+–
+
+Na primer, kada korisnik treba da odabere da nesto sačuva ili eliminiše,
 „save“ dugme bi trebalo da bude uvek sa iste strane, na svakom delu veb
 sajta na kom postoji „save“ opcija
-177… NIELSENOVA PRAVILA …
+177
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (4. pravilo) Konzistentnost i standardi
 ?
-178… NIELSENOVA PRAVILA …
+
+178
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (5. pravilo) Prevencija grešaka ...
-–Kad god je to izvodljivo eliminisati situacije koje dovode do
+–
+
+Kad god je to izvodljivo eliminisati situacije koje dovode do
 greške
-–Ukoliko u sistemu postoje neke akcije
+
+–
+
+Ukoliko u sistemu postoje neke akcije
 koje mogu prouzrokovati trajne i opasne posledice, korisniku treba pružiti
 opomenu
 –
+
 Na primer, „Da li ste sigurni da
 želite ovo da izbrišete?“
-179… NIELSENOVA PRAVILA …
+
+179
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (5. pravilo) Prevencija grešaka …
-180… NIELSENOVA PRAVILA …
+
+180
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (5. pravilo) Prevencija grešaka
-181… NIELSENOVA PRAVILA …
+
+181
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (6. pravilo) Prepoznavanje, pre pamćenja ...
-–Trebalo bi minimizovati opterećenje korisnikove memorije
+–
+
+Trebalo bi minimizovati opterećenje korisnikove memorije
 tako što su svi elementi interakcije vidljivi
-–Korisnik ne treba da pamti kako da koristi sistem
-–Dizajneri bi trebali da učine objekte, akcije i moguće opcije sistema
+
+–
+
+Korisnik ne treba da pamti kako da koristi sistem
+
+–
+
+Dizajneri bi trebali da učine objekte, akcije i moguće opcije sistema
 vidljivim kako bi korisnik lakše prepoznavao kako da rukuje sa sistemom
-–Korisnik ne bi trebalo da pamti informacije (istoriju) sa prethodnog dijaloga
+
+–
+
+Korisnik ne bi trebalo da pamti informacije (istoriju) sa prethodnog dijaloga
 u radu sa trenutnim dijalogom
-–Instrukcije za rad sa sistemom trebale bi da
+
+–
+
+Instrukcije za rad sa sistemom trebale bi da
 su stalno vidljive i dostupne
-–„Kako ono beše? I šta sam posle toga
+
+–
+
+„Kako ono beše? I šta sam posle toga
 pritisnuo?“ nisu najbolji pokazatelji
 performansi sistema
-182… NIELSENOVA PRAVILA …
+182
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (6. pravilo) Prepoznavanje, pre pamćenja ...
-183… NIELSENOVA PRAVILA …
+
+183
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (6. pravilo) Prepoznavanje, pre pamćenja ...
-184… NIELSENOVA PRAVILA …
+
+184
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (6. pravilo) Prepoznavanje, pre pamćenja
-185… NIELSENOVA PRAVILA …
+
+185
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (7. pravilo) Fleksibilnost i efikasnost ...
-–Omogućiti napradnim korisnicima da ubrzaju svoj rad
+–
+
+Omogućiti napradnim korisnicima da ubrzaju svoj rad
 putem prečica
-–Omogućiti korisnicima da podešavanje okruženja
-186… NIELSENOVA PRAVILA …
+
+–
+
+Omogućiti korisnicima da podešavanje okruženja
+
+186
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (7. pravilo) Fleksibilnost i efikasnost
-187… NIELSENOVA PRAVILA …
+
+187
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (8. pravilo) Estetičan i minimalističan dizajn ...
-–Izbegavati puno teksta i nepotrebnih informacija
-–Dijalozi ne bi trebalo da sadrže informacije koje nisu relevantne za
+–
+
+Izbegavati puno teksta i nepotrebnih informacija
+
+–
+
+Dijalozi ne bi trebalo da sadrže informacije koje nisu relevantne za
 rešavanje korisnikovog zadatka
 –
+
 Svaki dodatni (nepotrebni)
 podatak zauzima mesto
 bitnom podatku i smanjuje
 vidljivost bitnih podataka
-188… NIELSENOVA PRAVILA …
+
+188
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (8. pravilo) Estetičan i minimalističan dizajn ...
-189… NIELSENOVA PRAVILA …
+
+189
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (8. pravilo) Estetičan i minimalističan dizajn
-190… NIELSENOVA PRAVILA …
+
+190
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (9. pravilo) Pomoć korisniku da prepozna, dijagnostikuje i ispravi
 grešku ...
-–Svakako ne isto kao i obezbediti prevenciju od grešaka
-–Ako je greška načinjena, zanači da prevencija nije bila
+–
+
+Svakako ne isto kao i obezbediti prevenciju od grešaka
+
+–
+
+Ako je greška načinjena, zanači da prevencija nije bila
 dovoljno dobra
-–Ovaj princip se odnosi na poruke koje korisnik dobija
+
+–
+
+Ovaj princip se odnosi na poruke koje korisnik dobija
 od sistema („error messages“) – trebalo bi da
 informišu korisnika o nastaloj gršci i da ga uputi
 kako da problem reši
-–Poruke o grešci treba da budu napisane jasnim
+
+–
+
+Poruke o grešci treba da budu napisane jasnim
 jezikom, da precizno opišu grešku i da sugerišu
 oporavak od greške na konstruktivan način
-–Jedan od primera gde je ovaj princip lepo
+
+–
+
+Jedan od primera gde je ovaj princip lepo
 primenjen je istorija u Photoshop-u
-191… NIELSENOVA PRAVILA …
+191
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 ... (9. pravilo) Pomoć korisniku da prepozna, dijagnostikuje i ispravi
 grešku
-192… NIELSENOVA PRAVILA …
+
+192
+
+… NIELSENOVA PRAVILA …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (10. pravilo) Pomoć i dokumentacija ...
-–U idealnom slučaju sistem može da se koristi bez ikakve
+–
+
+U idealnom slučaju sistem može da se koristi bez ikakve
 dokumentacije ili pomoći
-–Jednostavno, svaki sistem bi trebao da ima stavku pomoć sa
+
+–
+
+Jednostavno, svaki sistem bi trebao da ima stavku pomoć sa
 instrukcijama o korišćenju istog
-–Poželjno je da pomoć bude laka za čitanje, sa
+
+–
+
+Poželjno je da pomoć bude laka za čitanje, sa
 slikama i jednostavna za pretragu
-–Pomoć bi trebala da bude fokusirana na korisničke
+
+–
+
+Pomoć bi trebala da bude fokusirana na korisničke
 zadatke
-–Ne bi trebala da bude predugačka kako ne bi
+
+–
+
+Ne bi trebala da bude predugačka kako ne bi
 odvratila korisnika od korišćenja dokumentacije
-193… NIELSENOVA PRAVILA
+
+193
+
+… NIELSENOVA PRAVILA
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 … (10. pravilo) Pomoć i dokumentacija
-194NORMAN’S PRINCIPLES…
+
+194
+
+NORMAN’S PRINCIPLES…
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 • Don Norman’s ‘Design of Everyday Things’
 1. Visibility
 2. Feedback
@@ -995,9 +1598,14 @@ SMERNICE
 4. Mapping
 5. Constraints
 6. Consistency
-259… NORMAN’S PRINCIPLES …
+
+259
+
+… NORMAN’S PRINCIPLES …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (1. pravilo) Visibility
 Users need to know what all the options are, and know straight away how to
 access them. In the case of websites, this is an easy win.
@@ -1005,6 +1613,7 @@ For example, use intuitive iconography that clearly indicates there are more
 options hiding deeper down (for example, the Hamburger). This is even more
 important for mobile design, when screen space is at a premium and there’s a
 strong (STRONG) desire to get rid of everything except your CTA.
+
 (2. pravilo) Feedback
 Every action needs a reaction. There needs to be some indication, like a
 sound, a moving dial, a spinning rainbow wheel, that the user’s action caused
@@ -1013,9 +1622,14 @@ Google Chrome does a great job of this when they’re loading pages. The little
 spinning circle starts as soon as you hit enter, so you know something’s
 happening, and goes faster when the page is about to load, so you know
 you’re about to do something again. It’s simple and effective feedback.
-260… NORMAN’S PRINCIPLES …
+
+260
+
+… NORMAN’S PRINCIPLES …
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (3. pravilo) Affordance
 Affordance is the relationship between what something looks like and how it’s
 used.
@@ -1024,33 +1638,49 @@ to know how to use it. For example, a mug has high affordance: it’s easy to
 figure out intuitively how to use it. For web designers, affordance is even more
 important. Users need to be able to tell how to access information they want
 from a website, or else they’ll just leave.
+
 (4. pravilo) Mapping
 Mapping is the relationship between control and effect. The idea is that with
 good design, the controls to something will closely resemble what they affect.
 A great example of mapping is the vertical scroll bar. It tells you where you
 are in a page, and as you drag it down, the page moves down at the same
 rate; control and effect are closely mapped.
-261… NORMAN’S PRINCIPLES
+261
+
+… NORMAN’S PRINCIPLES
 Dragan dr Dinu – Interakcija čovek računar
+
 SMERNICE
+
 (5. pravilo) Constraints
 Constraints are the limits to an interaction or an interface. Some are really
 obvious and physical, for example the screen size on a phone. Others are
 more nuanced, like a single, continuous page website having an image
 peeking onto the main page. It is logical for the user to scroll down to see the
 next image, and thus the rest of the website.
+
 (6. pravilo) Consistency
 The same action has to cause the same reaction, every time.
+
 If a website has a back button that sometimes turns a computer off, it
 becomes very hard to navigate around the web. The same applies for visual
 consistency. Logos and brands have power and recognition because they use
 the same logo. Twinings has used theirs for 227 years, and now everyone
 knows that a box with ‘Twinings’ written on it has tea inside it.
-262Dragan dr Dinu – Interakcija čovek računar
+
+262
+
+Dragan dr Dinu – Interakcija čovek računar
+
 DIZAJN INTERFEJSA – PROTOTIPOVI
-263ŠTA JE TO PROTOTIP
+
+263
+
+ŠTA JE TO PROTOTIP
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Eksperimentalan, nedovršen dizajn
 • Jednostavna verzija (simulacija) sistema koja
 se može brzo napraviti
@@ -1062,10 +1692,15 @@ korisnika (svih zainteresovanih strana)
 – kako bi se razjasnile nedoumice iz prikupljenih zahteva
 – u kasnijim fazama razvoja kor. interfejsa da se razjasne
 nedoumice i demonstriraju koncepti interakcije i dizajna
+
 • Najkorisniji su oni prototipovi koji se mogu brzo izmeniti
-264ZAŠTO KORISTITI PROTOTIPOVE ...
+264
+
+ZAŠTO KORISTITI PROTOTIPOVE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Kako bi se proverile ideje sa korisnicima
 • Kako bi se odredila upotrebljivost kor.
 interfejsa
@@ -1073,27 +1708,42 @@ interfejsa
 doprinesu dizajnu kor. interfejsa
 • Kako bi se omogućilo testiranje ideja i koncepata
 • Kako bi se validirali prikupljeni zahtevi
+
 • Kako bi se pregovaralo oko zahteve i funkcijalnosti
 sistema
 • Kako bi se na jeftin način dobile povratne informacije
 od korisnika u ranoj fazi dizajna
 • Kako bi se eksperimentisalo sa alternativnim rešenjima
 • Lako ih je izmeniti i odbaciti
-265... ZAŠTO KORISTITI PROTOTIPOVE
+
+265
+
+... ZAŠTO KORISTITI PROTOTIPOVE
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-266FIDELITY (VERODOSTOJNOST PROTOTIPA) ...
+
+266
+
+FIDELITY (VERODOSTOJNOST PROTOTIPA) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Jedna od važnih osobina prototipa je njegova verodostojnost, tj. koliko
 je njegov izgled blizak izgledu konačnog dizajna
 • Shodno tome, prototipovi se mogu podeliti na:
 – Low-fidelity prototipove – sa malo detalja, koriste jeftinije materijale
 i/ili koriste drugačije interakcione tehnike
 – High-fidelity prototipove – koji su vrlo slični krajnjem proizvodu
-267... FIDELITY (VERODOSTOJNOST PROTOTIPA) ...
+
+267
+
+... FIDELITY (VERODOSTOJNOST PROTOTIPA) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Fidelity je multidimenzionalne prirode
 – Vertikalnost – koliko funkcija ima
 prototip (koliko je operativan prototip)
@@ -1110,16 +1760,25 @@ front end bez backend-a
 – Presek se naziva scenario – pokazuje
 kako će front end izgledati (raditi) za
 jedan zadatak
-268... FIDELITY (VERODOSTOJNOST PROTOTIPA)
+268
+
+... FIDELITY (VERODOSTOJNOST PROTOTIPA)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 – Izgled prototipa – da li je crtano rukom, pomoću grafičkog alata (photshop
 npr.) ili generisano programskim razvojnim okruženjem (krajnji izgled)
 – Fizičke metode za interakciju sa prototipom – pokazivanjem (papirni
 prototip) ili simulacijom kliktanja
-269LOW-FIDELITY PROTOTIPOVI
+
+269
+
+LOW-FIDELITY PROTOTIPOVI
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Genaralno papirnati, mada mogu biti nacrtani i u nekom alatu kao što
 je Paint / Power Point i naknadno odštampani za diskusiju sa
 korisnikom
@@ -1131,12 +1790,17 @@ korisnikom
 između korisnika (stakeholders) i dizajnera kor. interfejsa
 • Dobri za ilustrovanje ideja, rasporeda ekrana/kontroli i dizajnerskih
 alternativa
+
 • Iako korisnici mogu da steknu osećaj o izgledu/funkcijama aplikacije
 (look and feel), daju ograničen pogled na izgled i funkciju kor.
 interfejsa, kao i ograničavajući pogled na to kako će se on koristiti
-270SKICE (PAPIRNATI PROTOTIP)
+270
+
+SKICE (PAPIRNATI PROTOTIP)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Odličan izbor za rani dizajn kor. interfejsa kako bi se proverile ideje
 • Može da pomogne dizajneru da shvati šta se očekuje od sistema i šta
 je potrebno da sistem uradi/podrži
@@ -1145,6 +1809,7 @@ skicu toga kako je on razumeo kor.
 zahteve (proizvodnja metalnih cevi)
 kako bi proverio sa korisnikom da
 li je dobro razumeo zahteve
+
 • Dizajner je iskoristio skicu da na
 njega stavi i ono što on misli da
 su esencijalne informacije
@@ -1152,9 +1817,14 @@ su esencijalne informacije
 što su predstavljene alternative kroz
 skicu, prelazi se na razradu
 odabranog dizajna/interakcije
-271MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
+
+271
+
+MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Interaktivni papirnati prikazi ekrana
 • Na više komada papira prikazuju se delovi ekrana, prozori, meniji,
 dijalozi sa elementima interakcije (zavisi od detalja mokapa)
@@ -1162,16 +1832,22 @@ dijalozi sa elementima interakcije (zavisi od detalja mokapa)
 – prstom se prikazuje ono na šta će se
 kliknuti mišem
 – pisanje odgovara kucanju
+
 • Čovek simulira operacije na računaru
 – Uzimaju se delovi papira (koji su u
 – fokusu), vraćaju i preuzimaju novi
 – Ispisuju se odgovori na "ekran"
 – Verbalno se opisuju efekti koje je teško prikazati (simulirati) na papiru
+
 • Vrlo su niskog novoa detalja u pogledu izgleda, ali su vrlo detaljni u
 pogledu verodostojnosti interakcije (osoba simulira backend)
-272... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
+272
+
+... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Mogu se jako brzo izgraditi (mnogo brže od programiranja)
 • Lako se menjaju
 – Izmene se mogu napraviti brzo
@@ -1180,38 +1856,58 @@ evaluacije
 – Nema investice u kod, pa se sve
 lako (bez žaljenja) može odbaciti
 (osim samog dizajna ili onog što je naučeno o dizajnu)
+
 • Akcenat je na celokupnog priči (big picture) a ne na detaljima
 – Ne gubi se vreme na nepotrebnim detaljima
 – Korisnici daju komentare na bitne stvari, dajući kreativnije sugestije, ne
 gubi se vreme na sitničarenju oko detalja (da li plava ili crvena boja, levo ili
 desno, i sl.)
+
 • Čak i ne-programeri mogu pomoći (potrebne samo veštine iz vrtića)
-273... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
+273
+
+... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-274... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
+
+274
+
+... MOKAPI EKRANA (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Altke za pravljenje mokapa (MIT kurs):
 – Posteri sa belom pozadinom
 – Velike indeks kartice za menije, za sadržaj prozora i dijaloga
 – Leljive kartice koje se mogu odlepiti/zalepiti
+
 – Bele lepljive trake (papir) za ispravke (tekst koji se
 kuca) za tekst polja, čekboksove, kratke poruke
 – Transparentni papir ili neki sličan materijal
 – Fotokopir mašina, makaze, lepak, olovke&markeri
+
 • Smernice za dobar papirnati prototip (MIT kurs):
 – Paziti da bude dovoljno veliko i jasno
 – Monohromatsko je dobro
 – Sve feedback metode koje je teško simulirati
 zamenuti verbalnim opisom
 – Pobrinuti se da sve bude dobro organizovano
-275... MOKAPI EKRANA (PAPIRNATI PROTOTIP)
+275
+
+... MOKAPI EKRANA (PAPIRNATI PROTOTIP)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-276STORIBORD (PAPIRNATI PROTOTIP) ...
+
+276
+
+STORIBORD (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Sekvenca skica ili mokapa čiji je fokus na svim akcijama, tj. celoj
 interakciji koju korisnik pređe kroz jedan svoj zadatak
 • Storibord uzima tekstualni opis toka zadatka (kao što je scenario) i
@@ -1225,17 +1921,30 @@ razvoja softvera se pravi
 – Ako se koristi u tokom modelovanja zadataka i toka
 interakcije imaće daleko više detalja, nego ako se pravi
 tokom faze konceptualnog dizajna interfejsa
+
 • Najveća prednost je što je njihovo stvaranje jeftino, brzo
 i lako se modifikuje
-277... STORIBORD (PAPIRNATI PROTOTIP) ...
+277
+
+... STORIBORD (PAPIRNATI PROTOTIP) ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-278... STORIBORD (PAPIRNATI PROTOTIP)
+
+278
+
+... STORIBORD (PAPIRNATI PROTOTIP)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-279KAKO TESTIRATI PAPIRNATI PROTOTIP
+
+279
+
+KAKO TESTIRATI PAPIRNATI PROTOTIP
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Nakon što se izgradi prototip, može se testirati tako što se stavi pred
 korisnike i posmatra se kako ga oni koriste
 • Dizajn tim treba da ima tri uloge:
@@ -1245,6 +1954,7 @@ delova prototipa, podiže ih i spušta, ispisuje
 poruke, unosi poruke; esencijalno radi sve što i
 računar, ali nikako više od toga (mora se
 razmišljati mehanički)
+
 2. Orator (predavač) – glas dizajnerskog tima; osoba koja prezentuje interfejs
 korisniku; opisuje korisniku cilj studije, zadatke i sve ostalo vezano za
 studiju; on je zadužen da od korisnika dobije odgovore i ohrabruje
@@ -1253,9 +1963,13 @@ korisnika da glasno priča dok prati prototip i rešava zadatak
 prisustvuju testiranju (evaluaciji); njihov zadatak je da ćute i prate (beleže)
 šta radi korisnik; ne pričaju i ne daju savete korisniku, niti ulaze u diskusiju
 sa njim
-280DIJAGRAM TOKA INTERFEJSA ...
+280
+
+DIJAGRAM TOKA INTERFEJSA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Omogućuje modelovanje veza
 visokog nivoa između elemenata
 korisničkog interfejsa i time nam
@@ -1267,12 +1981,21 @@ kako projektantima, tako i
 menadžerima ali i samim
 korisnicima (na zidu, kao
 podsetnik)
-281... DIJAGRAM TOKA INTERFEJSA ...
+
+281
+
+... DIJAGRAM TOKA INTERFEJSA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-282... DIJAGRAM TOKA INTERFEJSA ...
+
+282
+
+... DIJAGRAM TOKA INTERFEJSA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • DTI se primenjuje radi sticanja dobrog pregleda, opšte slike i
 uočavanja svih mogućih tokova
 sa jednog mesta
@@ -1289,12 +2012,20 @@ podataka u korisničkom interfejsu aplikacije
 • Recimo, ukoliko ima mnogo elemenata interfejsa i mnogo veza između
 njih to može da ukaže na prevelik sistem težak za razumevanje i
 upotrebu
-283... DIJAGRAM TOKA INTERFEJSA ...
+283
+
+... DIJAGRAM TOKA INTERFEJSA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
-284... DIJAGRAM TOKA INTERFEJSA
+
+284
+
+... DIJAGRAM TOKA INTERFEJSA
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • DTI spada u grupu grafičkih metoda
 • Poseduje hijerarhiju stabla i opisuje tok interfejsa (modelovan
 strelicama) referišući se na objekte interfejsa (modelovane
@@ -1309,9 +2040,13 @@ samih detalja
 korisničkog interfejsa,
 pre svega onih
 dizajnerskih
-285HIGH-FIDELITY PROTOTIPOVI ...
+285
+
+HIGH-FIDELITY PROTOTIPOVI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Low-fidelity prototipovi ne demonstriraju funkcionalnost, niti svu lepotu i
 detalje budućeg kor. interfejsa
 • Bazirani na softveru, ovi prototipovi daju dobar uvid u sistem, jer
@@ -1323,16 +2058,22 @@ intereaguju
 • Nisu više tako skupi kao nekada jer postoje alati koji omogućuju
 horizontalnost, veliku verodostojnost, ali bez backend-a
 – PowerPoint, HTML
+
 – Photoshop, Balsamiq Mockups, Mockingbird
 – VisualStudio, QtDesigner, Eclipse (Flash Builder), Silverlight, Mac Interface
 Builder
-289... HIGH-FIDELITY PROTOTIPOVI
+289
+
+... HIGH-FIDELITY PROTOTIPOVI
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Mogu isto što i low-fidelity prototipovi, iste se stvari mogu saznati, ali
 još i:
 – Informacije o screen layout
 • Da li je pregledan, prenatrpan, komplikovan?
+
 • Da li odvlači pažnju?
 • Da li korisnik može da pronađe važne elemente?
 – Da li su dobro odabrane boje, fontovi, ikonice i preostali vizuelni elementi
@@ -1343,9 +2084,14 @@ povratne informacije
 • Da li su kontrole dovoljno velike?
 • Da li su kontrole suviše blizu jedna drugoj?
 • Da li skrolovanje suviše dugo traje?
-290ALATI ZA PRAVLJENJE PROTOTIPA
+
+290
+
+ALATI ZA PRAVLJENJE PROTOTIPA
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Moguće je napraviti prototip tako što se on iskodira upotrebom Jave ili
 C++ programskog jezika i user interface toolkita, kao što su Swing ili
 MFC (ako ste skloni mazohizmu)
@@ -1354,6 +2100,7 @@ prototipa zato što je
 – Brže i lakše napraviti prototip nego kroz kodiranje
 – Nema potrebe za debagiranjem koda
 – Lakše se menja i lakše ga je odbaciti
+
 • Kod kodiranja kompjuterski prototip može postati tako složen da on
 postane finalni proizvod iako ima loš dizajn i propuste u interakcije (jer
 nam je žao da ga odbacimo posle toliko truda)
@@ -1361,9 +2108,14 @@ nam je žao da ga odbacimo posle toliko truda)
 da ne diktira on njegov razvoj
 • Čak i pored podrške softv. alata, razvoj kompj. prototipa može
 zahtevati jako puno posla (primer: drag&drop u Excel-u)
-291STORIBORD (HIGH-FIDELITY)
+
+291
+
+STORIBORD (HIGH-FIDELITY)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Slično papirnatim, ali se koriste screenshot-ovi u boji
 • Sekvenca (graf) screenshot-ova
 • Mogu biti povezani hiperlinkovima (hotspots)
@@ -1372,18 +2124,25 @@ animiran da bi se prikazali dinamički efekti
 (mouse feedback ili drag-drop feedback)
 • Alati koji se mogu koristiti:
 – Photoshop, Balsamiq Mockups, Mockingbird, ...
+
 • Prednosti:
 – Može da se nacrta sve
+
 • Mane:
 Nema unosa teksta;
 Widget-i nisu aktivni;
 Treba pronaći hotspot
-292GENERATORI FORMI (HIGH-FIDELITY)
+292
+
+GENERATORI FORMI (HIGH-FIDELITY)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Različiti alati za pravljenje formi
 – VisualStudio, Qt Designer, Eclipse (Flash Builder), Silverlight, Mac
 Interface Builder
+
 • Prednosti:
 – Stvarne kontrole, ne samo
 njihove slike
@@ -1391,32 +2150,49 @@ njihove slike
 backend ako je to potrebno
 (ali postoji opasnost da se
 neće odbaciti)
+
 • Mane:
 – Ograničava razmišljanja i mogućnosti na standardne widget-e
+
 – Manje korisno za bogate grafičke interfejse
-293WIZARD OF OZ (HIGH-FIDELITY)
+
+293
+
+WIZARD OF OZ (HIGH-FIDELITY)
 Dragan dr Dinu – Interakcija čovek računar
+
 PROTOTIPOVI
+
 • Softverska simulacija sa čovekom u pozadini, slično papirnom mokapu,
 gde čovek simulira odzive sistema
 • Čovekov uticaj može i ne mora biti skriven
 od korisnika
+
 • Često se koristi da simulira buduće
 (future) tehnologije
 – Prepoznavanje govora
 – Učenje (AI)
+
 • Mane:
 – Dva kor. interfejsa o kojima treba
 voditi računa
 – Wizard mora da se ponaša
 mehanički
-294Dragan dr Dinu – Interakcija čovek računar
+294
+
+Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE –
 HARDVERSKE I SOFTVERSKE
 KOMPONENTE
-295ELEMENTI INTERAKCIJE
+
+295
+
+ELEMENTI INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Svaki kor. interfejs predstavlja miks elemenata interakcije
 – Hardverske komponente – koje se odnose
 najčešće na interakcione uređaje za ulaz i
@@ -1429,9 +2205,14 @@ su slike na ekranu,
 organizacije komponenti na
 ekranu, boja, tekst,
 animacija, video i zvuk
-296HARDVERSKE KOMPONENTE ...
+
+296
+
+HARDVERSKE KOMPONENTE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Izbor adekvatnih hardverskih komponenti je važan
 – Svodi se na izbor odgovarajućeg alata za dati problem (nećete pomoću
 miša napisati dokument)
@@ -1441,6 +2222,7 @@ raspoložive tehnologije, ali i zadacima koji
 se trebaju rešiti tehnologijom na
 raspolaganju
 – Nije uvek moguće birati
+
 – Zahtevi za ulazne i izlazne uređaje se
 razlikuju (veličina i oblik tastera, robusnost
 tastature, preciznost i lakoća morišćenja
@@ -1450,12 +2232,21 @@ za rad point. uređaja, koliko detaljna treba
 da bude slika, koliko nijansi boja treba da
 ima, kolika je potrebna veličina i
 prenosivost ekrana
-297... HARDVERSKE KOMPONENTE
+
+297
+
+... HARDVERSKE KOMPONENTE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-298SOFTVERSKE KOMPONENTE
+
+298
+
+SOFTVERSKE KOMPONENTE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Adekvatan izbor softverskih komponenti omogućuje maksimalno
 iskorišćenje hardverskih komponenti
 • Ne može se puno uticati na sam izgled ili rad ulaznih uređaja, ali se
@@ -1463,6 +2254,7 @@ može uticati na reakcije sistema na akcije tih uređaja
 – kako će se sistem odazvati na akcije ulaznih uređaja i kako će se to
 predstaviti na izlaznim uređajima
 – kako će se kodirati sadržaj tokom interakcije
+
 • Softverske komponente su:
 – Tekst – kako da obezbedimo da je tekst čitljiv? Koji font koristiti? Koliko
 dugačke da budu linije?
@@ -1471,9 +2263,13 @@ dugačke da budu linije?
 – Video – kada je korisna animacija? Kada se sa video dobija dobar efekat?
 – Zvuk – kada je zvuk koristan? Koje kategorije zvuka postoje i kada
 primeniti koju kategoriju?
-299TEKST
+299
+
+TEKST
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Tekst dominantan element gotovo svakog kor. interfejsa
 • Predstavlja fleksibilan i moćan oblik komunikacije
 • Njegove tehničke prednosti su:
@@ -1484,22 +2280,30 @@ pretraživati što ne važi za preostale softv. komponente
 – Tekst je najlakše interpretirati, iako je moguće protumačiti
 jedan te isti tekst na različite načine, nivo nejjasnoće je
 daleko manji nego kod drugih softv. komponenti
+
 • Prilikom dizajniranja kor. interfejsa potrebno je istražiti kakav je stav
 korisnika prema tekstu
 – Moguće je odrediti starosnu čitalačku grupu
 – Da li čitaju knjige/novine
 – Da li samo prolaze kroz veće količine teksta ili
 ga zaista čitaju
-300ČITLJIVOST TEKSTA ...
+
+300
+
+ČITLJIVOST TEKSTA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Zavisi od nekoliko faktora:
 – typeface,
 – veličina fonta (size),
 – razmaku između linija (line spacing),
+
 – dužini tekst linije (line length),
 – poravnanju (justification), završetku
 linije (line endings)
+
 • Ne postoji upustvo za upotrebu teksta koje je univerzalno primenjivo,
 zato uvek treba uzeti u obzir ko je korisnik (da li je korisnik slabovid?)
 • Termin font nije opšte definisan ali se
@@ -1508,27 +2312,53 @@ gotovo uvek odnosi na:
 Sans Sarif, i sl.
 – veličinu fonta – od 8 do 72 (ovo je vrlo
 relativno i zavisi od rezolucije ekrana)
-301... ČITLJIVOST TEKSTA ...
+
+301
+
+... ČITLJIVOST TEKSTA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-302... ČITLJIVOST TEKSTA ...
+
+302
+
+... ČITLJIVOST TEKSTA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-303... ČITLJIVOST TEKSTA ...
+
+303
+
+... ČITLJIVOST TEKSTA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-304... ČITLJIVOST TEKSTA
+
+304
+
+... ČITLJIVOST TEKSTA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-305SMISAO TEKSTA
+
+305
+
+SMISAO TEKSTA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Iako je tekst čitljiv i lep za oko, to ne znači i da ima smisla za korisnika
 • Prilagoditi tekst i izraze krajnjem korisniku
 • Koristiti skraćenice, ali one koje imaju smisla za korisnika
-306BOJA
+
+306
+
+BOJA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Boja se koristi
 – da privuče korisniku pažnju – važni
 delovi ekrana (softv. dugmad) su
@@ -1543,9 +2373,13 @@ pored usability-a, važna je i
 estetika prikaza; džabe sva
 upotrebljivost kor. interfejsa ako je
 on korisniku ružan
-307KARAKTERISTIKE BOJE
+307
+
+KARAKTERISTIKE BOJE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Ekran može da prikaže samo deo boja koje su
 vidljive ljudskom oku
 • Preciznost ekrana u reprodukciji boja je ograničena
@@ -1558,9 +2392,13 @@ i nerealno spram boja odštampanih
 na papiru
 • Određene kombinacije boja izazivaju
 osećaj treperenja na ekranu
-308ZNAČENJE BOJE ...
+308
+
+ZNAČENJE BOJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Boje imaju svoju konotaciju (značenje)
 • Ali različite boje asociraju različite ljude na različite
 stvari
@@ -1569,44 +2407,70 @@ kojoj korisnik pripada
 – Crvena boja u zapadnoj kulturi znači opasnost
 (upozorenje), dok kod Kineza ono znači radost/sreću
 – Srećom kulturološko značenja boje se može naučiti
+
 – Zbog izrazite globalizacije ove razlike u značanju boja sve više nestaju
+
 • Čak i kada je značenje neke boje opšte prihvaćeno i rasprostranjeno,
 mora se koristiti oprezno
 – Npr. često se u kolima signalizira da je ručna kočnica povučena crvenom
 bojom, ali to u isti mah znači da možete pustiti i nožnu kočnicu na uzbrdici
 – Ovako pomešani signali mogu biti zbunjujući, zato je možda bolje koristiti
 neku drugu boju
-309... ZNAČENJE BOJE ...
+
+309
+
+... ZNAČENJE BOJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-310... ZNAČENJE BOJE ...
+
+310
+
+... ZNAČENJE BOJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-311... ZNAČENJE BOJE
+
+311
+
+... ZNAČENJE BOJE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Saturacija boje može imati takođe značajan efekat
 – Boje namenjene mladim ljudima mogu biti čiste i
 svetle (bright)
 – Boje namenje starijim znaju biti dubokih tonova
 (tamnije)
+
 • Moda ima veliki uticaj na izbor boje, naročito kod
 mladih ljudi
 – Kako se boje u modi menjaju trebalo bi izbegavati
 izbor boja koju su demode (outdated)
 – Kad god je moguće, uključiti grafičkog dizajnera u
 projektovanje kor. interfejsa
+
 • Boje primenjivati uvek konzistentno uzimajući u
 obzir karakteristike korisnika, njihovog zadatka i
 okruženje u kojem će se raditi
-312EFIKASNA UPOTREBA BOJA ...
+312
+
+EFIKASNA UPOTREBA BOJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Vrlo kompleksna i tehnički zavisna oblast
 Kako kombinovati boje a da se dobije željeni efekat?
-313... EFIKASNA UPOTREBA BOJA ...
+
+313
+
+... EFIKASNA UPOTREBA BOJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Kada se kombinuju boje mora se voditi računa o njihovoj usađenoj
 osvetljenosti (intrinsic brightness)
 • Ukupna osvetljenost kombinacije boja zavisi od osvetljenosti svake
@@ -1619,13 +2483,19 @@ plava koja je po
 prirodi svetlija
 (osvetljenija) od
 tamno plave boje
-314... EFIKASNA UPOTREBA BOJA ...
+
+314
+
+... EFIKASNA UPOTREBA BOJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Usađena osvetljenost može imati značajan efekat (implikaciju)
 – Da bi tekst bio čitljiv, kontrast između osvetljenosti pozadine i naličja mora
 biti dovoljno izražen (iste kombinacije boja je teško
 čitati)
+
 – Svetle boje sa značajnom osvetljenošću, moraju
 se koristiti obazrivo, jer velike površine svetlih
 boja mogu postati teške za (duže) gledanje; iako
@@ -1634,21 +2504,38 @@ sa bele površine tokom celog dana to može postati naporno,
 zato je bolje zameniti belu površinu sivom, krem ili magnolijom
 – Kontrast u osvetljenosti ne bi trebala da bude ekstremna, jer
 može dovesti do vizualnog efekta vibriranja
+
 • Kako je percepcija personalna karakteristika, dobra je
 praksa dozvoliti korisniku da može da modifikuje kolor
 šemu kor. interfejsa
-315... EFIKASNA UPOTREBA BOJA ...
+315
+
+... EFIKASNA UPOTREBA BOJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-316... EFEKTIVNA UPOTREBA BOJA
+
+316
+
+... EFEKTIVNA UPOTREBA BOJA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-317REPREZENTACIJA INFORMACIJA BOJOM
+
+317
+
+REPREZENTACIJA INFORMACIJA BOJOM
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
-318SLIKA
+
+318
+
+SLIKA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Slike se mogu koristiti na više načina
 – Da motivišu, da privuku pažnju korisnika, da
 zabave, da ubede. Ova primena je vrlo
@@ -1662,12 +2549,17 @@ barijere. Vrlo
 rasprostranjeno u
 korisničkim
 upustvima.
+
 – Da podrže interakciju.
 Metafore ekrana i
 ikonice.
-319EFIKASNA UPOTREBA SLIKA ...
+319
+
+EFIKASNA UPOTREBA SLIKA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Osnovni tipovi slika
 – Slike (pictures) – fotografije, crteži, crtaći.
 Prenose informacije koje je teško opisati
@@ -1682,11 +2574,16 @@ and charts) – vizuelne
 reprezentacije brojeva i sl.,
 kao što su pite, histogrami,
 bar grafovi i sl.
+
 • Svaki tip slike reprezentuje
 drugačiji tip informacije
-320... EFIKASNA UPOTREBA SLIKA
+320
+
+... EFIKASNA UPOTREBA SLIKA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Uobičajeno je da se u sliku uključi određena funkcionalnost – npr.
 mapa regije ima ugrađenu funkcionalnost da kada korisnik klikne na
 neki njen deo, otvara se sadržaj sa informacijama o kliknutom području
@@ -1700,12 +2597,17 @@ mogu da odvuku pažnju korisniku)
 – Pratiti sve relevantne konvencije kako bi se ostvarila konzistencija sa
 drugim slikama istog tipa (identični simboli, boje sa istim značenjem)
 – Kombinovanje slika i teksta može biti izrazito efikasno
+
 – Voditi računa o rezoluciji ekrana kako bi se ne bi izgubili detalji na slikama
 – Voditi računa koliko slika zauzima prostora na hard disku i ako se radi o
 kor. interfejsu u Web prezentaciji koliki je vreme njenog download-a
-321SEKVENCA SLIKA ...
+321
+
+SEKVENCA SLIKA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Prikaz sekvence slika čak i na papiru
 može biti vrlo korisno jer omogućuje
 korisniku da sagleda čitav proces
@@ -1722,9 +2624,14 @@ video (scenario, režija..)
 generisanje animacije/videa treba
 prepustiti profesionalcima iz
 odgovarajuće oblasti
-322... SEKVENCA SLIKA
+
+322
+
+... SEKVENCA SLIKA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Animacija može biti deo samog kor. interfejsa ili sadržaja koji se
 prikazuje u okviru softvera
 – Animacija prenosa fajlova koja prati operaciju
@@ -1741,9 +2648,13 @@ animacije/video upotrebljene samo kao deo kor.
 interfejse, a ne kao sadržaj ekrena
 – Kako tehnologija napreduje, tako treba očekivati sve
 više pokretnih slika kao deo kor. interfejsa
-323... SEKVENCA SLIKA
+323
+
+... SEKVENCA SLIKA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Kada se koriste pokretne slike, treba voditi računa o tome da je većina
 korisnika naviknuta da gleda animacije/video visokog kvaliteta na Tvu,
 te očekuju sličan kvalitet i u samo kor. interfejsu
@@ -1752,21 +2663,29 @@ animacija ili video motivisati
 • Kako animacije/video zauzimaju mnogo prostora (high bandwith) i kako
 njihova produkcija puno košta, njihovo uključivanja mora da bude
 dobro promišljeno i opravdano, a ne da budu samo skupi wallpaper-i
+
 • Takođe se mora voditi računa da animacija/video može:
 – Izazvati određene vrste epilepsije
 – Odvući pažnju korisnika od osnovnog zadatka
 – Otežati fokusiranje korisnika na zadatak
+
 • U slučaju da se upotrebi animacija/video, korisniku
 se mora omogućiti zaustavljanje, pokretanje,
 pauziranje sekvence, kao i kontrola brzine reprodukcije
-324ANIMACIJA
+
+324
+
+ANIMACIJA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Animacija se može iskoristit da:
 – ilustruje pokret. Npr. animacija u edukativnom
 programu koja služi da pokaže korisniku kako da
 uradi nešto pravilno, npr. dvokorak u košarci
 –
+
 – prikaže dinamički feedback kao potvrda da se nešto
 dešava (da postoji reakcija sistema). Npr. animacija
 kopiranja fajlova
@@ -1774,18 +2693,25 @@ kopiranja fajlova
 promena sata ili rezultata da
 privuče pažnju na semafor.
 Može postati iritantno
+
 – objasni na koji
 način se neki
 sistem koristi
+
 – prikaže da je računarski
 sistem aktivan
 (funkcionalan) tokom
 operacija koje se dešavaju
 u pozadini a traju određeni
 vremenski period
-325VIDEO
+
+325
+
+VIDEO
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Video klipovi se mogu koristiti u mnogim situacijama u kojima se koristi
 i animacija, ali i u dodatnim slučajevima
 – da prenesu ljudsko ponašanje i emocije. Npr. video
@@ -1795,6 +2721,7 @@ pokazivati situaciju kada korisnik dođe ljut u banku,
 tako da zaposleni mogu videti izraze lica ljutog klijetna
 – da prikažu događaje koje korisnik ne može direktno
 pogledati. Npr. unutrašnjost reaktora ili neki istorijski događaj
+
 – da motivišu. Npr. prikaz nekog ko obavlja posao bolje od
 korisnika, može ga motivisati da i on sam radi bolje
 – da pruže dodatnu kontekstnu informaciju.
@@ -1803,9 +2730,14 @@ događaju. Npr. avatar rođaka koji
 pomaže savetima po kući. Mora da
 se redovno ažurira kako se ne bi
 videla starost videa
-326ZVUK
+
+326
+
+ZVUK
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Vrlo je koristan kao izlaz, naročito kada korisnici
 ne mogu lako da vide vizuelnu informaciju
 – Aplikacije u kojima pogled i pažnja nisu sve vreme
@@ -1820,9 +2752,14 @@ elektranom, štampači kada dođe do zagušenja papira i sl.
 – Aplikacije za slabovide ili slepe
 korisnike. U ove aplikacije spadaju
 čitači ekrana (screen readers)
-327VRSTE ZVUKA ...
+
+327
+
+VRSTE ZVUKA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Tri kategorije
 – Ambijentalni zvuk i zvučni efekti. Ambijentalni zvuk je prirodni produkt
 nekog okruženja ili uređaja (zvuk rada računara, kiše, zvuk kliktanja
@@ -1832,11 +2769,17 @@ tastaturi mobilnog telefona). Zvučni efekti se koriste i kao potvrda da je
 operacija završena (zvuk gužvanja papira prilikom slanja u kantu za
 otpatke)
 – Muzika. Mnogi programi koriste muziku kao pratnju ili dodatni oblik alarma
+
 – Govor. Najkomplikovanija od svih kategorija, zbog potrebe za
 prepoznavanjem govora i generisanjem govora.
-328... VRSTE ZVUKA ...
+
+328
+
+... VRSTE ZVUKA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Zvučni efekti se koriste da
 – Pojača vizuelne komponente kor. interfejsa (zvuk okretanje stranice knjige
 u virtuelnoj knjizi)
@@ -1844,13 +2787,19 @@ u virtuelnoj knjizi)
 zvuk kao potvrda)
 – Privuče pažnju (zvuk poruke o grešci kako bi se privukla pažnja korisnika
 na postojanje greške)
+
 • Muzika se koristi retko osim u kompj. igrama i specijalnim aplikacijama
 koje koriste kompozitori i muzičari
 – Posebne muzički tonovi za različite operacije / akcije u nekim operativnim
 sistemima (zvuk podizanja Windows-a)
-329... VRSTE ZVUKA
+
+329
+
+... VRSTE ZVUKA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Upotreba govora je vrlo moćan alat za prenos / prezentaciju
 informacija
 • Najkorisnije za aplikacije namenjene slabovidima / slepima
@@ -1862,12 +2811,17 @@ ostvareni
 – Poruka prati događaje u vremenu
 – Poruka zahteva trenutnu akciju
 – Vizualni kanali je preopterećen
+
 – Okruženje je suviše svetlo, suviše tamno, podložno vibracijama ili iz nekog
 drugog razloga nepovoljno za prenos vizuelne informacije
 – Korisnik nije obavezan da sedi ispred ekrana
-330UPOTREBA ELEMENATA INTERAKCIJE
+330
+
+UPOTREBA ELEMENATA INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Elemente interakcije treba upotrebiti tako da se:
 – Smanji vizuelni napor (reduce visual work)
 – Smanji intelektualni napor (reduce intellectual work)
@@ -1879,22 +2833,37 @@ imposed by technology)
 • Ljudi će provoditi puno vremena gledajući u vaš interfejs
 • Očekivati da će se korisnici navići na sve je pogrešno!
 • Najbolji interfejsi čine sve na ekranu očiglednim
-331ELEMENTI INTERAKCIJE – NEKE SMERNICE
+
+331
+
+ELEMENTI INTERAKCIJE – NEKE SMERNICE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Obezbediti jasno uočljivu početnu tačku (u gornjem levom ćošku
 ekrana)
 • Fokusirajte pažnju korisnika na najvažnije delove ekrana
 – Kako će korisnici skenirati informacije zavisi od kompoziciji prikaza
+
 • Ljudi teže ka tome da prvo pogledaju tekst, posle slike
 • Velike stvari dominiraju nad manjim
 • Prvo se pažnja posveti informacijama koje se menjaju
 • Ljudi posmatraju vrlo često u takozvanom F paternu
-332Dragan dr Dinu – Interakcija čovek računar
+
+332
+
+Dragan dr Dinu – Interakcija čovek računar
+
 Graphical User Interface (GUI)
-333KOMBINOVANJE ELEMENATA INTERAKCIJE
+
+333
+
+KOMBINOVANJE ELEMENATA INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Kompletan grafički korisnički interfejs nastaje kombinovanjem
 interakcionih uređaja (hardverskih elemenata interakcije) i softverskih
 komponenti u jednu jedinstvenu celinu
@@ -1908,9 +2877,13 @@ iskustva korisnika koji zahtevaju tu kompleksnost
 • Kada se dizajnira GUI uvek postoje konfliktni zahtevi i tu je potrebna
 veština i iskustvo kako bi se odredilo šta treba uključiti a šta ne u kor.
 interfejs
-334PRINCIPI DOBROG LAYOUT-A ...
+334
+
+PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Da bi se napravio upotrebljiv kor. interfejs potrebno je kombinovati
 različite elemente kako bi korisnici obavili svoje zadatke lako, brzo i
 efikasno
@@ -1918,11 +2891,17 @@ efikasno
 i interakcionih uređaja
 • Za softverske komponente to uobičajeno znači njihovo dobro
 raspoređivanje na ekranu (prozoru)
+
 • Za interakcione uređaje to znači dobro mapiranje ključnih tastera
 (keymaping and keypad desing) i raspoređivanje softv. dugmadi
-335... PRINCIPI DOBROG LAYOUT-A ...
+
+335
+
+... PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Obezbediti prirodno grupisanje elemenata
 – Razmisliti o prirodnoj strukturi informacija
 – Npr. podaci o zaposlenom se mogu grupisati na:
@@ -1930,12 +2909,18 @@ GUI
 • deo sa istorijom zapošljavanja,
 • deo sa detaljima o trenutnom zaposlenju, i
 • deo sa podacim o plati.
+
 – Isti princip važi i za grupisanje kontrola
 – Npr. grupisati sve menije ili ikonice koje se odnose na isti kontekst
 ili koncept
-336... PRINCIPI DOBROG LAYOUT-A ...
+
+336
+
+... PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Razdvojiti trenutno aktivne komponente
 – Jako je važno naglasiti šta korisnik trenutno radi
 – Ako je to ispoštovano, ako im nešto odvuče pažnju, lako će moći da
@@ -1946,24 +2931,35 @@ trenutno važno i aktuelno u zadatku koji obavlja
 na više od jednog zadatka u istom trenutku
 – Npr. aktivni prozor u Windowsu je uvek iznad svih ostalih i jasno
 označen (naglašen)
-337... PRINCIPI DOBROG LAYOUT-A ...
+
+337
+
+... PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Naglasiti važne komponente
 – Isticanjem se omogućuju lakša identifikacija i pronalaženje stvarno
 važnih komponenti
+
 – Npr. Panic dugmad su izražene crvene boje (zašto?)
 – Dobro i pažljivo identifikovati koje su komponente važne
 – Koristiti vrlo rezervisano, samo kad ima smisla
+
 – Ako je sve naglašeno, gubi se smisao naglašavanja i postaje
 zbunjujuće
 – Boja, veličina fonta i kurzitiv, pozicioniranje na ekranu, zvuk i
 animacija mogu se upotrebiti za naglašavanje kompononti
 – Dobra praksa je kobinovati ove komponente kako bi se istakao
 efekat (npr. alarm u kolima i trepće i pišti)
-338... PRINCIPI DOBROG LAYOUT-A ...
+338
+
+... PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Koristiti prazan prostor na efikasan način
 – Prazan prostor (white space) je ekstremno važan za dizajniranje
 dobrog kor. interfejsa
@@ -1978,9 +2974,14 @@ prozoru (upotrebom menija razbijenih na više nivoa), nego ih sve
 smestiti na jedan prozor i napraviti gužvu
 – Informacije i komponente koje će se prikazati direktno na prozoru
 odabrati pažljivo
-339... PRINCIPI DOBROG LAYOUT-A ...
+
+339
+
+... PRINCIPI DOBROG LAYOUT-A ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Pojačati vidljivost komponenti (jasno istaći njihovu funkciju)
 – Da bi komponenta bila vidljiva, njena funkcija mora biti jasno
 naglašena
@@ -1990,9 +2991,14 @@ zapamtiti
 nazančenu funkciju uzimajući u obzir korisnikovo poznavanje
 računarskih sistema i sveta uopšte (domensko znanje, kulturološku
 i socijalnu pozadinu, obrazovanje, i sl.)
-340... PRINCIPI DOBROG LAYOUT-A
+
+340
+
+... PRINCIPI DOBROG LAYOUT-A
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Balansirati estetiku i upotrebljivost
 – Estetski izgled kor. interfejsa dobija na sve većem značaju
 – Pojava Apple Macintosh računara sa širokom paletom raspoloživih
@@ -2000,6 +3006,7 @@ boja promenila je kako korisnici doživljavaju kor. interfejs i njihova
 očekivanja – korisnici više nisu zadovoljni sivim kutijama!!!
 – Od tada mnogo je pažnje posvećeno redizajniranju GUIa kako bi se
 ispunila ta očekivanja i kako bi kor. interfejs postao atraktivniji
+
 – Međutim, mora se voditi računa da se sa estetikom ne preterana
 – Gotovo nikada ne treba žrtvovati usability zarad estetike (na duge
 staze usability pobeđuje)
@@ -2007,9 +3014,13 @@ staze usability pobeđuje)
 the eyes. You need to ask yourself which is more important. You
 may have some arguments with your marketing manager over this
 point.
-341DIZAJNERSKI PROSTOR INTERAKCIJE ...
+341
+
+DIZAJNERSKI PROSTOR INTERAKCIJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Pre nego što se pristupi dizajniranju kor. interfejsa, potrebno je
 odabrati prostor u kojem će korisnik biti u interakciji sa sistemom
 • Dizajnerski prostor predstavlja hardverskih i softverskih komponenti
@@ -2022,11 +3033,17 @@ nekoliko puta demonstrirao)
 – Embedded sistemi (poput uređaja nemenjenih držanju u ruci – handheald
 devices)
 – Sveprisutno računarstvo (ubiquitous computing)
+
 • Postoje i drugi dizajnerski prostori
 • Granica između dizajnerskih sistema nije jasna
-342... DIZAJNERSKI PROSTOR INTERAKCIJE
+
+342
+
+... DIZAJNERSKI PROSTOR INTERAKCIJE
 Dragan dr Dinu – Interakcija čovek računar
+
 GUI
+
 • Kada se dizajnira kor. interfejs treba voditi računa o sledećem:
 1. Identifikovati relevantni dizajnerski prostor i uzeti u obzir
 karakteristike, principe i smernice tog prostora
@@ -2042,25 +3059,38 @@ stalno menjaju i dizajnerski prostori (njihove karakteristike)
 sama tehnologija
 – Nemogući opisati kako se svaka pojedinačna komponenta ponaša i
 očekivati da će to biti trajno upustvo
-343Dragan dr Dinu – Interakcija čovek računar
+343
+
+Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE KORISNIČKOG
 INTERFEJSA
-381TESTIRANJE KORISNIČKOG INTERFEJSA
+
+381
+
+TESTIRANJE KORISNIČKOG INTERFEJSA
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • U ovoj lekciji pod testiranjem se podrazumeva testiranje se
 korisnicima, tj. stavljanje korisničkog interfejsa ispred korisnika
 • Podrazumeva se da su prošla sva interna testiranja vezana za
 funkcionalnost i izgled samog interfejsa (on radi i nema bagova)
+
 • Ovaj test podrazumeva proveru da li interfejs radi onako kako korisnik
 (i sam dizajner) očekuju da će raditi
 • Postoji nekoliko vrsta testova koji uključuju korisnike, ali u svima njima
 treba voditi računa da su u pitanju ljudi i da postoje određena etička
 pitanja koja
 moraju biti
-ispunjenaŠTA OČEKUJEMO OD TESTIRANJA Uia …
+ispunjena
+
+ŠTA OČEKUJEMO OD TESTIRANJA Uia …
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Da validiramo valjanost našeg prototipa.
 • Da potvrdim da li naš proizvod odgovara korisnikovim očekivanjima i
 očekivanjima generalno.
@@ -2071,13 +3101,18 @@ tačke u interfejsu
 problematični za korisnike sa posebnim potrebama).
 • Da se korisnici aktivno uključe u razvoj proizvoda (Get buy-in for
 change).
-• Da ultimativno omogući dolazak do boljeg UX-a.… ŠTA OČEKUJEMO OD TESTIRANJA Uia
+• Da ultimativno omogući dolazak do boljeg UX-a.
+
+… ŠTA OČEKUJEMO OD TESTIRANJA Uia
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Dovođenje novih korisnika da testira naš UI ili posmatranje kako
 postojeći korisnici koriste naš UI je efikasan način da se utvrdi da li
 korisnici:
 – razumeju kako aplikacija (interfejs) funkcioniše,
+
 – se gube u interfejsu ili ih interfejs zbunjuje
 – mogu (uspevaju) da kompletiraju glavne akcije koje moraju
 sprovesti
@@ -2085,9 +3120,13 @@ sprovesti
 bagove
 – imaju funkcionalno i efikasno iskustvo
 – primećuju bilo kakve usabiliti probleme ili bilo kakve druge
-probleme koje mi nismo uočili ili nismo uopšte o njima razmišljaliVRSTE TESTIRANJA
+probleme koje mi nismo uočili ili nismo uopšte o njima razmišljali
+
+VRSTE TESTIRANJA
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Formativna evaluacija
 – Sprovodi se nad prototipovima, u kontrolisanom okruženju
 – Služi da se otkriju problem u usability-u kako bi se otklonili u sledećoj
@@ -2095,18 +3134,25 @@ iteraciji dizajniranja
 – Ne zahteva potpunu, funkcionalnu implementaciju, ali se može primeniti na
 prototipovima različitog nivoa detalja
 – Rezultat testiranja su zapažanja o kvalitetu (qualitative observations)
+
 • Evaluacija u realnom okruženju
 – Pronalazak problema radom u relanom okruženju
 – Mora biti funkcionalna verzija kor. interfejsa i softvera
 – Koriste se realni problemi
 – Rezultat uglavnom zapažanja o kvalitetu
+
 • Kontrolisani eksperimenti
 – Za proveru određene hipoteze
 – Nad funkcionalnom verzijom softvera
 – Rezultat uglavnom zapažanja o kvalitetu
-• Usability testingKVALITATIVNO VS KVANTITATIVNO
+
+• Usability testing
+
+KVALITATIVNO VS KVANTITATIVNO
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Prema vrsti podataka koji se prikupljaju, mogu se podeliti na:
 – Kvalitativne – fokus je na prikupljanju uvida, osećaja, otkrića, anegdota o
 tome kako korisnici koriste neku uslugu ili proizvod. Ove vrste testiranja su
@@ -2116,17 +3162,22 @@ upotrebljivosti interfejsa.
 opisuju UX. Najčešće metrike koje se koriste su procenat uspešnosti u
 realizaciji zadataka i vreme potrebno da se realizuje zadatak. Najbolje je
 koristiti prilikom benčmark testova.
+
 • Broj učesnika zavisi pre svega od vrste studija. Kvalitativne metrike
 zahtevaju veći broj učesnika, dok se kod kvalitativnih metrika
 preporučuje najmanje 5 učesnika (videti Nielsenovo istraživanje:
-https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-
-users/).UDALJENO VS UŽIVO
+https://www.nngroup.com/articles/why-you-only-need-to-test-with-5users/).
+
+UDALJENO VS UŽIVO
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Prema tome gde nalaze korisnici u odnosu na osobu koja sprovodi
 istraživanje, mogu se podeliti na:
 – Testiranje uživo – i osoba koja sprovodi test i osoba koja učestvuje u
 testiranju se nalaze na istoj lokaciji.
+
 – Udaljeno testiranja – podrazumeva da korisnik testira interfejs na lokaciji
 koja njemu odgovora. Može biti:
 • nadzirano – slično testiranju uživo, kad su i osoba koja sprovodi
@@ -2136,9 +3187,13 @@ istim lokacijama uz korišćenje čet alata i alata za deljenje ekrana, ili
 koja sprovodi test i osobe koja se testira. Osoba koja testira, sprovodi
 unapred zadate zadatke ritmom koja njoj odgovara. Koristi se
 specijalizovan softver za praćenje i beleženje rezultata. Sva uputstva o
-zadacima i testu nalaze se stalno dostupna u okviru alata za testiranje.CENA USABILITY TESTIRANJA
+zadacima i testu nalaze se stalno dostupna u okviru alata za testiranje.
+
+CENA USABILITY TESTIRANJA
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Jednostavni testovi mogu biti zaista jeftini, iako se savetuje da se
 učesnicima testiranja plati njihov anganžman kako bi se obezbedila
 njihova puna saradnja
@@ -2148,13 +3203,17 @@ njihova puna saradnja
 2. dan za testiranje 5 učesnika
 3. dan za obradu i analizu dobijenih rezultata, pisanje izveštaja i
 preporuka za narednu iteraciju softvera
+
 • Cena može biti izuzetno visoka za velike studije kada se testira na
 nekoj posebnoj lokaciji sa velikim brojem učesnika
 • Šta povećava cenu: kompetetivne studije više dizajna, interno testiranje
 u više zemalja, testiranje više grupa korisnika (ili persona), kvantitativne
 studije, upotreba fensi opreme (eyetrackers), upotreba laboratorija za
-testiranje i monitoring, pisanje detaljnih izveštaja i preporukaUSABILITY TEST ...
+testiranje i monitoring, pisanje detaljnih izveštaja i preporuka
+
+USABILITY TEST ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Testiranje usabilty-a sprovodi se implementacijom scenarija ili
 prototipa, nakon čega sledi snimanje ponašanja korisnika
 • Kod snimanja ponašanja korisnika posebna
@@ -2166,9 +3225,14 @@ obavio određeni posao
 ohrabruje da razmišlja naglas
 • Nakon toga sledi intervju korisnika o njegovim subjektivnim
 impresijama, a zatim i analiza njegovog ponašanja
-TESTIRANJE... USABILITY TEST ...
-Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
+... USABILITY TEST ...
+Dragan dr Dinu – Interakcija čovek računar
+
+TESTIRANJE
+
 • Svrha ovoga je da se shvate korisnikove metode i problemi sa kojima
 se suočava prilikom rešavanja zadataka i interakcije sa softverom
 • Ovim se otkriva proces razmišljanja
@@ -2179,10 +3243,15 @@ sistema
 • Manu predstavlja činjenica da se često analiziraju samo limitirani
 aspekti sistema, zatim da se ispitivanje obično odvija u laboratoriji na
 “toy problems”, sa izmišljenim podacima
+
 • Ova analiza ističe samo prvu upotrebu sistema zanemarujući šta će se
-desiti nakon dužeg perioda rada sistema... USABILITY TEST ...
+desiti nakon dužeg perioda rada sistema
+
+... USABILITY TEST ...
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Usability test se sadrži 3 elementa:
 1. Osoba koja sprovodi
 testiranje i prati rad
@@ -2193,46 +3262,65 @@ realizuje
 3. Učesnik testiranja
 interfejsa koji
 realizuje zadatke
+
 • Korisnici rešavaju realne
 zadatke određene od
 Nielse Norman Group – primer Usability testa
 strane testera
 • Mora se voditi računa o previše stvari i ne dobija se slika o tome kako
 će se korisnički interfejs ponašati u realnom okruženju
-• Tri uloge: korisnici, izvršioci, posmatrači... USABILITY TEST ...
+• Tri uloge: korisnici, izvršioci, posmatrači
+
+... USABILITY TEST ...
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Standardni koraci u testiranju utilitarnosti/korisnika su:
 1.
 2.
 3.
 4.
+
 Podesiti ambijent za opservaciju,
 Opisati svrhu opservacije i saopštiti korisniku da ima pravo da odustane u
 svakom trenutku,
 Opisati i demonstrirati opremu u prostoriji,
 Objasniti korisniku kako da “misli naglas” i da mu/joj
 nećete pružati nikakvu
-pomoć tokom testa,... USABILITY TEST ...
+pomoć tokom testa,
+
+... USABILITY TEST ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Standardni koraci u testiranju utilitarnosti/korisnika su:
 5.
 6.
 7.
 8.
 9.
+
 Opisati zadatak i uvesti korisnika u sistem
 Insistirajte da vas korisnik pita pre opservacije
 Opservacija pa debrifing subjekta
 Analiza dobijenih podataka
 Tabelarna organizacija rezultata
-TESTIRANJE... USABILITY TEST ...
+
+TESTIRANJE
+
+... USABILITY TEST ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Standardni koraci u testiranju utilitarnosti/korisnika su:
 10. Interpretacija rezultata u kontekstu drugih rezultata
-TESTIRANJELABORATORIJE ZA TESTIRANJE USABILITY-A
-Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
+LABORATORIJE ZA TESTIRANJE USABILITY-A
+Dragan dr Dinu – Interakcija čovek računar
+
+TESTIRANJE
+
 • Potreba za testom utilitarnosti kulmirnirala je ranih 1980tih godina
 • Sa razvitkom utilitarnosti razvijaju se posebne
 laboratorije utilitarnosti, prvo u okviru fakulteta
@@ -2244,10 +3332,15 @@ revizije projekta, zatim u potrazi za informacija o softverskim alatima i
 literaturom, kao i u razvoju skupa
 zadataka za testiranje utilitarnosti
 “u kući”
+
 • Aktuelni lider u testiranju
-utilitarnosti trenutno je IBMETIČKA PITANJA
+utilitarnosti trenutno je IBM
+
+ETIČKA PITANJA
 Dragan dr Dinu – Interakcija čovek računar
+
 TESTIRANJE
+
 • Usability test uključuje i određena etička pitanja
 • Osnovni principi su da nema fizičkog ili psihičkog povređivanja, da je
 participacija dobrovoljna i da je korisniku obezbeđeno pravo na
@@ -2258,33 +3351,54 @@ korisnik dao svoj potpis na saglasnost
 pritisak na učesnike
 – Postoji pritisak da se uradi dobro
 – Izgleda kao test inteligencije
+
 – Strah da se ne obruka pred ispitivačem
-– Poređenje/takmičenje sa drugim ispitanicimaDragan dr Dinu – Interakcija čovek računar
+– Poređenje/takmičenje sa drugim ispitanicima
+
+Dragan dr Dinu – Interakcija čovek računar
+
 VIZUELIZACIJA PODATAKA
-397VIZUELIZACIJA
+
+397
+
+VIZUELIZACIJA
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Čemu služi vizuelizacija?
 – Za razmišljanje, uočavanje i pronalaženje informacija
 – Za komunikaciju
+
 • Vizuelizacija predstavlja formu usvajanja znanja na osnovu spoljnih
 nadražaja (extern cognition)
 – Skica (slika) nacrtana na pravi način pomaže da se uoče obrasci i veze
 koje bi inače bile nevidljive (ili ih je teško uočiti samo na osnovu
 teksta/tabela)
+
 – Analiza podataka upotrebom percepcije
 – Manipulacija kako bi se podaci što bolje
 razumeli
+
 • Vizuelizacija je izuzetan način da
 informacije prenose drugima
+
 čovek
+
 PODACI
+
 vizuelizacija
+
 – Omogućuju zajedničko razmišljanje
 – Omogućuju zajedničko donošenje odluka
-398VIZUELIZACIJA – OSNOVNE SMERNICE
+
+398
+
+VIZUELIZACIJA – OSNOVNE SMERNICE
 Dragan dr Dinu – Interakcija čovek računar
+
 ELEMENTI INTERAKCIJE
+
 • Your data is only as good as your ability to understand and
 communicate it, which is why choosing the right visualization is
 essential
@@ -2295,8 +3409,12 @@ understand the story you are trying to tell and the relationship you are
 looking to show
 • Knowing this information will help you select the proper visualization to
 best deliver your message
-399ČOVEKOV VIZIONI SISTEM
+
+399
+
+ČOVEKOV VIZIONI SISTEM
 Dragan dr Dinu – Interakcija čovek računar
+
 • Čulo sa najvećim rasponom i mogućnostima, najviše se oslanjamo na
 njega
 • Brzo je, i paralelno
@@ -2306,39 +3424,65 @@ njega
 • Proširuje memoriju (vizuelno pamćenje) i
 kognitivni kapacitet
 • Ljudi razmišljaju vizuelno!
+
 • Vizuelizacija je idealna, u čemu je onda problem?
-400VIZUELIZACIJA – PRIMERI
+
+400
+
+VIZUELIZACIJA – PRIMERI
 Dragan dr Dinu – Interakcija čovek računar
+
 • Pronađite crvenu tačku
-401... VIZUELIZACIJA – PRIMERI ...
+
+401
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Tabela, da li je dobra ili loša?
 • Koja USA država ima najveći prihod? Odnos između prihoda i
 stručne spreme? Autlajeri?
-402... VIZUELIZACIJA – PRIMERI ...
+
+402
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 Stručna sprema %
+
 • Vizualizacija,
 bolja?
+
 Zarada
-403... VIZUELIZACIJA – PRIMERI ...
+
+403
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • John’s Snow
 Cholera outbreak
 map
-404... VIZUELIZACIJA – PRIMERI ...
+
+404
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • John’s Snow Cholera outbreak map (moderna verzija)
-405... VIZUELIZACIJA – PRIMERI ...
+
+405
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Challenger disaster
 – Poleteli su iako vreme nije bilo povoljno suviše hladno za jednu vrstu
 materijala
 – Many people
 assume it was
 because of
-poorly-
-functioning
+poorlyfunctioning
 O rings on the
 booster rocket.
 However,
@@ -2349,16 +3493,24 @@ tiny pictures of each shuttle booster, lined up in chronological order,
 showing launch
 temperatures and any O ring damage.
 – Da su podaci bili u drugoj formi, da li bi se nezgoda izbegla?
-406... VIZUELIZACIJA – PRIMERI ...
+
+406
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Challenger disaster (nastavak)
 – Podaci u tabeli
+
 – Tabele su vrlo slab oblik iskazivanja vizuelnih
 informacija jer ne iskorišćavaju sve sposobnosti
 našeg vizelnog sistema (ne oslanjaju se na sve
 dimenzije dostupne vizuelnom sistemu
-407... VIZUELIZACIJA – PRIMERI ...
+407
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Challenger disaster (nastavak)
 – Vizuelizacija koja je zaista upotrebljena prilikom odlučivanja u
 Challenger misiji
@@ -2368,6 +3520,7 @@ par raketa lansiranih
 u ranijim misijama
 – Linija predstavljaju
 O rings
+
 – Žvrljotine
 predstalvljaju
 primećena
@@ -2376,20 +3529,31 @@ oštećenja
 temperature sa
 prethodnih
 lansiranja
+
 Dobro/loše sa aspekta learnability-a?
 Dobro/loše sa aspekta visibility-a?
+
 Šta je još uvek skriveno ili implicitno?
 Kakve greške mogu nastati?
-408... VIZUELIZACIJA – PRIMERI ...
+
+408
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Challenger disaster (nastavak)
 – Vizuelizacija koja je
 upotrebljena prilikom
 analize šta se dogodilo
 u Challenger misiji
-409... VIZUELIZACIJA – PRIMERI ...
+
+409
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Florence Nightingale, crveni krst
+
 – “Nightingale rose” dijagram
 – Procenat smrtnosti u engleskoj
 vojsci (Army of the East) od
@@ -2397,18 +3561,27 @@ posledica ranjavanja u borbi (roze)
 i od nehigijenskih uslova (plavo)
 pre (desno) i posle (levo) poboljšanja
 higijenskih uslova
-410... VIZUELIZACIJA – PRIMERI ...
+
+410
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Florence Nightingale, crveni krst (nastavak)
 – Dijagram obmanjuje, jer je broj smrti proporcionalan poluprečniku
 svakog segmenta; čovek interpretira celu oblast kao nosioca informacije,
 tako da će ono što je na obodu uvek delovati većim nego što je zaista
-411... VIZUELIZACIJA – PRIMERI ...
+
+411
+
+... VIZUELIZACIJA – PRIMERI ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Napoleonova kampanja u Rusiji
 – Charles Minard, 1869
 – Smeđa je marš ka Moskvi, crna označava povlačenje
 – Veličina armije kroz debljinu linije i broj
+
 – Putanja kroz veće
 gradove i kako se
 menjao broj vojnika,
@@ -2421,11 +3594,18 @@ je bila u datom
 trenutku (jer je ona
 uticala dešavanja i
 osipanje armija)
-412... VIZUELIZACIJA – PRIMERI
+412
+
+... VIZUELIZACIJA – PRIMERI
 Dragan dr Dinu – Interakcija čovek računar
+
 • Napoleonova kampanja u Rusiji (nastavak)
-413VIZUALNO MAPIRANJE ...
+
+413
+
+VIZUALNO MAPIRANJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Vizualne promenljive:
 – Boja (vrednost, nijansa), tekstura
 – Oblik
@@ -2433,25 +3613,42 @@ Dragan dr Dinu – Interakcija čovek računar
 – Orijentacija, ugao, nagib
 – Veličina, dužina, površina, volumen
 – Animacija, vreme, blinkanje, pokret
-414... VIZUALNO MAPIRANJE ...
+
+414
+
+... VIZUALNO MAPIRANJE ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Vizualne oznake :
+
 – Tačke
+
 – Linije
+
 – Oblast (površina)
+
 – Volumen
+
 – Glifovi (glyphs)
-415... VIZUALNO MAPIRANJE
+415
+
+... VIZUALNO MAPIRANJE
 Dragan dr Dinu – Interakcija čovek računar
+
 • Mapiranje:
 1. Kategorije podataka
 2. Atributi kategorija podataka
+
 vizuelne oznake
 vizuelne promenljive oznaka
+
 • U vizuelizaciji podataka se koriste neke ili sve vizuelne promenljive
 • Koje su vizuelne promenljive korišćene u prethodnim primerima?
-416VIZUALNO MAPIRANJE – PRIMER
+416
+
+VIZUALNO MAPIRANJE – PRIMER
 Dragan dr Dinu – Interakcija čovek računar
+
 • Baza filmova u SpotFire programu
 – Film → oznaka
 (geometrijksa slika)
@@ -2461,48 +3658,78 @@ Dragan dr Dinu – Interakcija čovek računar
 veličina
 – Žarn → boja
 – Nagrada → oblik
-417VIZUALNO MAPIRANJE – POZICIJA ...
+
+417
+
+VIZUALNO MAPIRANJE – POZICIJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Pozicija je osnovna vizuelna promenljiva, jer je
 – vrlo raznovrsna (i po dužiini i po tipu),
 – izrazito selektivna (jer je lako kretati fokus kroz vizuelno polje), i
 – lako iskače (vrednosti koje odskaču se lako uočavaju)
+
 • Ujedno je i vrlo zahtevan resurs (za koga često nema dovoljno mesta
 na prikazu)
+
 Podaci
+
 Ekran
-418... VIZUALNO MAPIRANJE – POZICIJA ...
+
+418
+
+... VIZUALNO MAPIRANJE – POZICIJA ...
 Dragan dr Dinu – Interakcija čovek računar
+
 • Nekada je najjednostavniji način korišćenja pozicije, onaj direktan –
 mapiranje pozicije iz stvarnog sveta na vizuelizaciju (mapa)
 – Ako podaci zaista imaju prostorne koordinate i ako fizička lokacija utiče
 na razmišljanje i prenošenje informacija o zadatku koji korisnik treba da
 sprovede, onda ovo radi posao
-419... VIZUALNO MAPIRANJE – POZICIJA
+
+419
+
+... VIZUALNO MAPIRANJE – POZICIJA
 Dragan dr Dinu – Interakcija čovek računar
+
 • Pozicija nije relevantna, onda se mora pronaći apstraktno mapiranje
 – Koordinate x i y se koriste za prikazivanje drugih promenljivih, tj. drugih
 atributa kategorije podataka (kao u scaterplot grafiku), ili
 – Koordinate x i y se koriste za pakovanje (prikazivanje) srodnih
 informacija jedna pored druge (kao na primer u stablo-mapi)
+
 • I kod ostalih vizuelnih promenljive se koristi stvarno ili apstraktno
 mapiranje
-420KORISNIČKI ZADATAK
+
+420
+
+KORISNIČKI ZADATAK
 Dragan dr Dinu – Interakcija čovek računar
+
 • Proste stvari (najčešće 1, 2 dimenzije):
 – Minimum, maksimum, procenat, srednja vrednost
+
 Excel
+
 – Precizni upiti, poznati elementi pretrage
+
 • Složene stvari (mnogo dimenzija, ne zna se šta se očekuje):
 – Obrasci, trendovi, distribucije,
 promene tokom vremena
 – Otlajeri, izuzeci
+
 – Odnosi, relacije, višestruka povezanost
 – Kombinacija minimuma i maksimuma,
 tradeoffs
+
 Vizuelizacija
+
 – Klasteri, grupe, poređenja, konteksti
+
 – Anomalije, greške u podacima, odstupanja
 – Putanje
 – ...
+
 421
+
+
